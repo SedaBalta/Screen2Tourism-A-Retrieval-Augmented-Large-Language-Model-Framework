@@ -1,0 +1,29 @@
+{
+  "labels": [
+    "O",
+    "B-MEKAN",
+    "I-MEKAN",
+    "B-ZAMAN",
+    "I-ZAMAN",
+    "B-OLAY",
+    "I-OLAY"
+  ],
+  "label2id": {
+    "O": 0,
+    "B-MEKAN": 1,
+    "I-MEKAN": 2,
+    "B-ZAMAN": 3,
+    "I-ZAMAN": 4,
+    "B-OLAY": 5,
+    "I-OLAY": 6
+  },
+  "id2label": {
+    "0": "O",
+    "1": "B-MEKAN",
+    "2": "I-MEKAN",
+    "3": "B-ZAMAN",
+    "4": "I-ZAMAN",
+    "5": "B-OLAY",
+    "6": "I-OLAY"
+  }
+}

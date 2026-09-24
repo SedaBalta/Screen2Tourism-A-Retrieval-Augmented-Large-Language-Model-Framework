@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/*
+!models/README.md
+results/
+data/visual/images/
+*.joblib
+data/annotation/annotation_llm.xlsx
+data/annotation/human_subset.xlsx
+data/annotation/llm_annotate_checkpoint.json
+.env

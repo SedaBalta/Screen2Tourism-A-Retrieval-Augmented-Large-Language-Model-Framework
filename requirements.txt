@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+torch
+transformers
+sentence-transformers
+seqeval
+rank_bm25
+openpyxl
+Pillow
+requests
+groq
+openai
+git+https://github.com/openai/CLIP.git

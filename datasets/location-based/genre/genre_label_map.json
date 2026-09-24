@@ -1,0 +1,18 @@
+{
+  "label2id": {
+    "Aksiyon": 0,
+    "Dram": 1,
+    "Fantastik": 2,
+    "Komedi": 3,
+    "Polisiye": 4,
+    "Romantik": 5
+  },
+  "id2label": {
+    "0": "Aksiyon",
+    "1": "Dram",
+    "2": "Fantastik",
+    "3": "Komedi",
+    "4": "Polisiye",
+    "5": "Romantik"
+  }
+}

@@ -1,0 +1,305 @@
+id,lokasyon_adi,sehir,ilce,koordinat,turizm_potansiyeli,ziyaret_durumu,populer_aktiviteler,gorsel_url
+1,Adana Eski Mahalleler,Adana,Seyhan,"37.0000,35.3213",Orta,Açık,Tarihi sokaklar; Taşköprü; Ulu Cami,
+2,Adana Tren Garı,Adana,Seyhan,"36.999, 35.321",Yüksek,Açık,"Mimari Gezi, Ulaşım",https://gorsel-linki.com/adana-gar.jpg
+3,Adana Çukurova Pamuk Tarlaları,Adana,Çukurova,"37.058, 35.321",Orta,Açık,"Fotoğrafçılık, Tarım Gezisi",https://gorsel-linki.com/adana-tarla.jpg
+4,Adana Şehir Hastanesi ve Çevresi,Adana,Yüreğir,"37.016, 35.361",Düşük,Kısıtlı,Gözlem,https://gorsel-linki.com/adana-sehir.jpg
+5,Kozan Tarihi Evleri ve Kalesi,Adana,Kozan,"37.455, 35.815",Yüksek,Açık,Tarih Turu,https://gorsel-linki.com/kozan.jpg
+6,Kuzey Adana Modern Yerleşimler,Adana,Çukurova,"37.045, 35.292",Orta,Açık,Şehir Turu,https://gorsel-linki.com/adana-modern.jpg
+7,Pozantı,Adana,Pozantı,"37.4268,34.8707",Düşük,Açık,Toros geçidi; doğa yürüyüşü,
+8,Sarıçam Pamuk Çiftlikleri,Adana,Sarıçam,"37.031, 35.451",Orta,Açık,Tarım Turizmi,https://gorsel-linki.com/saricam.jpg
+9,Varda Köprüsü (Alman Köprüsü),Adana,Karaisalı,"37.243, 34.976",Yüksek,Açık,"Mimari Gözlem, Tren İzleme",https://gorsel-linki.com/varda.jpg
+10,Varda Köprüsü ve Karaisalı Platoları,Adana,Çukurova,"37.243, 34.976",Çok Yüksek,Açık,"Tren İzleme, Tarih Gezisi",https://gorsel-linki.com/varda-adana.jpg
+11,Varda Viyadüğü,Adana,Karaisalı,"37.3167,35.2000",Yüksek,Açık,127 m yüksekliğinde tarihi köprü; kanyona bakan manzara; bisiklet ve yürüyüş parkuru,
+12,Çukurova Ovası,Adana,Merkez,"37.0500,35.6000",Orta,Açık,Pamuk tarlaları; Seyhan Nehri manzarası; doğa gözlemi,
+13,Ihlara Vadisi ve Kaya Kiliseleri,Aksaray,Güzelyurt,"38.239, 34.296",Çok Yüksek,Müze/Açık,"Doğa Yürüyüşü, Tarih Gezisi",https://gorsel-linki.com/ihlara.jpg
+14,Sultanhanı Kervansarayı,Aksaray,Sultanhanı,"38.246, 33.547",Çok Yüksek,Müze/Açık,Mimari İnceleme,https://gorsel-linki.com/sultanhani.jpg
+15,Ankara Garı,Ankara,Altındağ,"39.9312,32.8559",Orta,Açık (müze),Tarihi tren garı gezisi; fotoğrafçılık,
+16,Demirtepe ve Ankara Tren Yolları,Ankara,Çankaya,"39.928, 32.845",Düşük,Açık,Tren Yolculuğu,https://gorsel-linki.com/ankara-tren.jpg
+17,Esenboğa Havalimanı,Ankara,Akyurt,"40.1281,32.9956",Düşük,Açık,Ulaşım noktası,
+18,Eski Meclis ve Birinci Meclis Binası,Ankara,Çankaya,"39.941, 32.854",Çok Yüksek,Müze,Cumhuriyet Tarihi Turu,https://gorsel-linki.com/birinci-meclis.jpg
+19,Eski TBMM Binası ve Ulus Meydanı,Ankara,Çankaya,"39.941, 32.854",Çok Yüksek,Müze,"Tarih Turu, Mimari",https://gorsel-linki.com/eski-meclis.jpg
+20,Feyman Kulüp (Ankara Kavaklıdere),Ankara,Çankaya,"39.9015,32.8567",Düşük,Kapalı (özel mekan),Ankara eğlence tarihi,
+21,Gazi Mahallesi ve Akköprü Emniyet Hattı,Ankara,Yenimahalle,"39.952, 32.831",Orta,Açık,"Nostalji Gezisi, Emniyet Sahneleri",https://gorsel-linki.com/gazi-mahallesi.jpg
+22,Kuğulu Park,Ankara,Çankaya,"39.9022,32.8597",Orta,Açık,Yürüyüş; piknik; kuğu izleme,
+23,Kuğulu Park ve Tunalı Hilmi Caddesi,Ankara,Çankaya,"39.902, 32.859",Çok Yüksek,Açık,"Kuğuları İzleme, Şehir Turu",https://gorsel-linki.com/kugulu-park.jpg
+24,Kıbrıs Köyü Kanyonu ve Yerleşkesi,Ankara,Mamak,"39.924, 33.055",Orta,Açık,"Doğa Yürüyüşü, Gözlem",https://gorsel-linki.com/kibris-koyu.jpg
+25,Mamak ve Boğaziçi Eski Mahalleleri,Ankara,Mamak,"39.912, 32.915",Orta,Açık,Kentsel Dönüşüm Gözlemi,https://gorsel-linki.com/mamak-eski.jpg
+26,Mogan Gölü ve Villalar Bölgesi,Ankara,Gölbaşı,"39.791, 32.805",Yüksek,Açık,"Piknik, Tekne Turu, Set Gezisi",https://gorsel-linki.com/mogan-ankara.jpg
+27,Sakarya Caddesi ve SSK İş Hanı Çevresi,Ankara,Çankaya,"39.921, 32.853",Yüksek,Açık,"Gece Hayatı, Sokak Lezzetleri",https://gorsel-linki.com/sakarya-ankara.jpg
+28,Ulucanlar Cezaevi Müzesi,Ankara,Altındağ,"39.938, 32.875",Çok Yüksek,Müze,"Tarih Gezisi, Müze Ziyareti",https://gorsel-linki.com/ulucanlar.jpg
+29,Çankaya (Ankara Büyükelçilikler Bölgesi),Ankara,Çankaya,"39.8780,32.8397",Orta,Açık,Atatürk Orman Çiftliği; büyükelçilik binaları; tarihi köşkler,
+30,Çinçin Bağları ve Gecekondu Semtleri,Ankara,Altındağ,"39.954, 32.872",Düşük,Açık (Dikkat),"Sosyolojik Gözlem, Nostalji",https://gorsel-linki.com/cincin.jpg
+31,Alanya Çiçek Bahçeleri ve Kalesi,Antalya,Alanya,"36.544, 31.991",Çok Yüksek,Açık,"Manzara İzleme, Tarih Turu",https://gorsel-linki.com/alanya.jpg
+32,Antalya EXPO Alanı ve Stüdyolar,Antalya,Aksu,"36.936, 30.893",Yüksek,Ziyarete Açık,"Etkinlik, Fotoğrafçılık",https://gorsel-linki.com/expo-antalya.jpg
+33,Antalya Havalimanı Çevresi,Antalya,Muratpaşa,"36.900, 30.792",Düşük,Açık,Ulaşım,https://gorsel-linki.com/havalimani.jpg
+34,Antalya Karain Mağarası ve Çevresi,Antalya,Döşemealtı,"37.078, 30.571",Çok Yüksek,Müze/Açık,Arkeolojik Gezi,https://gorsel-linki.com/karain.jpg
+35,Antalya Yat Limanı (Kaleiçi),Antalya,Muratpaşa,"36.884, 30.703",Çok Yüksek,Açık,"Tekne Turu, Tarihi Gezi",https://gorsel-linki.com/antalya-yat-limani.jpg
+36,Elmalı Sokakları ve Jandarma Karakolu,Antalya,Elmalı,"36.733, 29.917",Orta,Açık,Tarihi Ev Gezisi,https://gorsel-linki.com/elmali.jpg
+37,Gloria Sports Arena (Belek),Antalya,Serik,"36.8601,31.0552",Orta,Açık,Dünya standartlarında spor tesisi; atletizm pisti; olimpik havuz,
+38,Kaş Limanı ve Sahili,Antalya,Kaş,"36.200, 29.638",Çok Yüksek,Açık,"Dalış, Tekne Turu",https://gorsel-linki.com/kas.jpg
+39,Kemer Yaylaları ve Ormanları,Antalya,Kemer,"36.600, 30.550",Orta,Açık,"Doğa Yürüyüşü, Macera",https://gorsel-linki.com/kemer-yayla.jpg
+40,Köprübaşı ve Nehir Kenarı,Antalya,Manavgat,"36.788, 31.442",Yüksek,Açık,"Rafting, Fotoğraf",https://gorsel-linki.com/manavgat.jpg
+41,Tahtalı Dağı,Antalya,Kemer,"36.5169,30.4906",Yüksek,Açık,Teleferik; 2365 m zirve; Akdeniz manzarası; Nefes film lokasyonu,
+42,Artvin Kemalpaşa Sahili,Artvin,Kemalpaşa,"41.481, 41.522",Orta,Açık,Deniz Manzarası İzleme,https://gorsel-linki.com/kemalpasa.jpg
+43,Artvin Maçahel Yaylası,Artvin,Borçka,"41.428, 41.921",Yüksek,Açık (Mevsimlik),"Eko-Turizm, Arıcılık",https://gorsel-linki.com/macahel.jpg
+44,Borçka Karagöl,Artvin,Borçka,"41.385, 41.851",Çok Yüksek,Açık,"Doğa Fotoğrafçılığı, Kamp",https://gorsel-linki.com/karagol.jpg
+45,Hopa Sahil Şeridi,Artvin,Hopa,"41.408, 41.432",Orta,Açık,Yol Üstü Dinlenme,https://gorsel-linki.com/hopa.jpg
+46,Doğanbey Köyü (Eski Domatia),Aydın,Söke,"37.618, 27.214",Çok Yüksek,Açık,"Taş Ev Gezisi, Fotoğraf",https://gorsel-linki.com/doganbey.jpg
+47,Ağrı Dağı Etekleri ve Doğubayazıt,Ağrı,Doğubayazıt,"39.547, 44.084",Yüksek,Açık,"Doğa Yürüyüşü, Manzara",https://gorsel-linki.com/agri-dagi.jpg
+48,İshak Paşa Sarayı,Ağrı,Doğubayazıt,"39.520, 44.129",Çok Yüksek,Müze/Açık,Mimari Fotoğrafçılık,https://gorsel-linki.com/ishakpasa.jpg
+49,Ayvalık,Balıkesir,Ayvalık,"39.3212,26.6965",Yüksek,Açık,Ada gezisi; Rum mimarisi; zeytinyağı tadımı; sahil yürüyüşü,
+50,Bandırma,Balıkesir,Bandırma,"40.3505,27.9762",Orta,Açık,Tarihi çarşı; Erdek ve Marmara Adası'na feribot,
+51,Bandırma Sahil ve Eski Tren Garı Çevresi,Balıkesir,Bandırma,"40.352, 27.971",Yüksek,Açık,"Nostalji Turu, Fotoğraf",https://gorsel-linki.com/bandirma-sahil.jpg
+52,Cunda Adası ve Tarihi Sokaklar,Balıkesir,Ayvalık,"39.336, 26.662",Çok Yüksek,Açık,"Gastronomi, Kültür Gezisi",https://gorsel-linki.com/cunda.jpg
+53,Kozak Yaylası ve Köy Evleri,Balıkesir,Ayvalık,"39.294, 26.845",Yüksek,Açık,"Eko-Turizm, Köy Kahvaltısı",https://gorsel-linki.com/kozak.jpg
+54,Aybüke Yalçın Caddesi ve Okul Çevresi,Batman,Kozluk,"38.216, 41.488",Yüksek,Açık,"Ziyaret, Saygı Duruşu",https://gorsel-linki.com/kozluk-aybuke.jpg
+55,Zeydan Mahallesi,Bitlis,Merkez,"38.3950,42.1246",Orta,Açık,Tarihi Bitlis evleri; yüzyıllık minare manzarası; film lokasyonu,
+56,Karagöz ve Hacivat Anıtı ve Orman Köyleri,Bursa,Orhaneli,"39.902, 28.985",Yüksek,Açık,"Kültür Gezisi, Atölye",https://gorsel-linki.com/orhaneli.jpg
+57,Mudanya,Bursa,Mudanya,"40.3743,28.8839",Orta,Açık,Tarihi Rum evleri; sahil yürüyüşü; Mudanya Mütarekesi müzesi,
+58,Mudanya Eski Evleri ve Mütareke Meydanı,Bursa,Mudanya,"40.375, 28.883",Çok Yüksek,Açık,"Tarih Gezisi, Gastronomi",https://gorsel-linki.com/mudanya-mutareke.jpg
+59,Mudanya Sahil Şeridi ve Tarihi Evler,Bursa,Mudanya,"40.375, 28.883",Yüksek,Açık,"Yürüyüş, Gastronomi",https://gorsel-linki.com/mudanya.jpg
+60,Tarihi Cumalıkızık Köyü ve Taş Yollar,Bursa,Cumalıkızık,"40.175, 29.172",Çok Yüksek,Açık,"Köy Kahvaltısı, Dizi Turu",https://gorsel-linki.com/cumalikizik.jpg
+61,Tophane Yamaçları ve Tarihi Konaklar,Bursa,Osmangazi,"40.188, 29.061",Çok Yüksek,Açık,"Şehir Manzarası, Nostalji",https://gorsel-linki.com/tophane.jpg
+62,Diyarbakır Surları ve Hevsel Bahçeleri,Diyarbakır,Sur,"37.913, 40.238",Çok Yüksek,Açık,"Tarih Gezisi, Fotoğraf",https://gorsel-linki.com/diyarbakir-sur.jpg
+63,Eskişehir,Eskişehir,Odunpazarı,"39.7767,30.5206",Yüksek,Açık,Odunpazarı evleri; Porsuk Çayı; cam sanatı; tren müzesi,
+64,Sivrihisar Kırsalı ve Askeri Platolar,Eskişehir,Sivrihisar,"39.450, 31.537",Yüksek,Kısıtlı,"Set Gezisi, Doğa Fotoğrafı",https://gorsel-linki.com/sivrihisar-set.jpg
+65,Bakırcılar Çarşısı,Gaziantep,Şahinbey,"37.0662,37.3833",Yüksek,Açık,Gastronomi turu; el sanatları alışverişi; Zeugma Mozaik Müzesi,
+66,Gaziantep Kalesi ve Eski Evler,Gaziantep,Şahinbey,"37.066, 37.383",Yüksek,Açık,Tarih Gezisi,https://gorsel-linki.com/antep-kalesi.jpg
+67,Gaziantep Tarihi Bakırcılar Çarşısı,Gaziantep,Şahinbey,"37.066, 37.378",Çok Yüksek,Açık,"Gastronomi Turu, Alışveriş",https://gorsel-linki.com/bakircilar.jpg
+68,Zeugma Mozaik Müzesi ve Çevresi,Gaziantep,Şehitkamil,"37.075, 37.385",Çok Yüksek,Müze,Kültür Gezisi,https://gorsel-linki.com/zeugma.jpg
+69,Hakkari/Yüksekova Sınır Köyleri,Hakkari,Yüksekova,"37.561, 44.287",Düşük,Kısıtlı,Gözlem,https://gorsel-linki.com/yuksekova.jpg
+70,Harran Mahallesi,Hatay,Reyhanlı,"36.3581,36.5875",Orta,Açık,Tarihi köy dokusu; Kibar Feyzo film lokasyonu; Türk kırsal mimarisi,
+71,Hatay Sınır Kapısı ve Köyleri,Hatay,Yayladağı,"35.912, 36.012",Orta,Açık,Sınır Ticareti Gözlemi,https://gorsel-linki.com/hatay-sinir.jpg
+72,Amsterdam Şehir Merkezi,Hollanda,Amsterdam,"52.3676,4.9041",Yüksek,Açık,Kanal turları; Rijksmuseum; tarihi çarşılar; bisiklet kültürü,
+73,Barla Dağları (Karabel Mevkii),Isparta,Eğirdir,"38.012, 30.725",Düşük,Kısıtlı (Zorlu Arazi),Doğa Yürüyüşü,https://gorsel-linki.com/barla.jpg
+74,Eğirdir Gölü,Isparta,Eğirdir,"37.873, 30.852",Orta,Açık,"Doğa Yürüyüşü, Balıkçılık",https://gorsel-linki.com/egirdir.jpg
+75,Eğirdir Gölü ve Tarihi Halı Atölyeleri,Isparta,Eğirdir,"37.873, 30.851",Yüksek,Açık,"Halı Dokuma Gözlemi, Göl Turu",https://gorsel-linki.com/egirdir.jpg
+76,Tarihi Safranbolu Evleri ve Çarşısı,Karabük,Safranbolu,"41.245, 32.691",Çok Yüksek,Açık,"Kültür Turu, Tarihi Doku",https://gorsel-linki.com/safranbolu.jpg
+77,Ani Harabeleri,Kars,Merkez,"40.510, 43.572",Çok Yüksek,Müze/Açık,Arkeolojik Keşif,https://gorsel-linki.com/ani-harabeleri.jpg
+78,Kars Eski Rus Evleri ve Sokakları,Kars,Merkez,"40.608, 43.095",Çok Yüksek,Açık,"Mimari Keşif, Yürüyüş",https://gorsel-linki.com/kars-mimari.jpg
+79,Kars Garı ve Raylı Sistemler,Kars,Merkez,"40.601, 43.102",Yüksek,Açık,Doğu Ekspresi Fotoğrafçılığı,https://gorsel-linki.com/kars-gar.jpg
+80,Kars Kalesi ve Tarihi Hamamlar,Kars,Merkez,"40.612, 43.091",Çok Yüksek,Açık,Kültür Turu,https://gorsel-linki.com/kars-kale.jpg
+81,Erciyes Dağı Etekleri ve Tarihi Mahalleler,Kayseri,Merkez,"38.530, 35.510",Çok Yüksek,Açık,"Kış Turizmi, Gastronomi",https://gorsel-linki.com/erciyes-kayseri.jpg
+82,Soğanlı Vadisi,Kayseri,Yeşilhisar,"38.348, 34.978",Yüksek,Açık,"Balon Turu, Kaya Kiliseleri",https://gorsel-linki.com/soganli.jpg
+83,Gaziantep Kilis Sınır Hattı (Plato),Kilis,Merkez,"36.716, 37.121",Düşük,Kısıtlı (Set Alanı),Aksiyon Çekimleri,https://gorsel-linki.com/kilis-sinir.jpg
+84,Kilis Kalesi,Kilis,Merkez,"36.7184,37.1212",Orta,Açık,Tarihi kale gezisi ve fotoğrafçılık,
+85,Darıca Riva Platosu (Tarihi Set),Kocaeli,Darıca,"40.760, 29.351",Yüksek,Özel İzinle,Set Gezisi,https://gorsel-linki.com/riva-set.jpg
+86,Sekapark Film Platosu,Kocaeli,İzmit,"40.762, 29.904",Yüksek,Ziyarete Açık,Film Seti Gezisi,https://gorsel-linki.com/sekapark-set.jpg
+87,İzmit Garı ve Tarihi Tren Rayları,Kocaeli,İzmit,"40.762, 29.919",Orta,Açık,"Ulaşım, Fotoğraf",https://gorsel-linki.com/izmit-gar.jpg
+88,3. Ana Jet Üssü ve Hava Sahası,Konya,Selçuklu,"37.979, 32.562",Düşük,Kısıtlı (Askeri),Havacılık Gözlemi,https://gorsel-linki.com/ana-jet-ussu.jpg
+89,Konya Ovası,Konya,Merkez,"37.8667,32.4833",Orta,Açık,Uçsuz bucaksız bozkır manzarası; Mevlana Türbesi günübirlik; semazen gösterileri,
+90,Konya Tren Garı ve Raylı Sistemler,Konya,Ereğli,"37.514, 34.053",Orta,Açık,"Seyahat, Fotoğrafçılık",https://gorsel-linki.com/konya-gar.jpg
+91,Kapalı Maraş ve Tarihi Surlar,Kuzey Kıbrıs,Gazimağusa,"35.116, 33.953",Çok Yüksek,Kısmi Açık,"Tarih Gezisi, Hüzün Turizmi",https://gorsel-linki.com/kibris-marash.jpg
+92,Büyük Han,Lefkoşa,Merkez,"35.1742,33.3627",Yüksek,Açık,Osmanlı hanı gezisi; el sanatları; Kıbrıs kültürü,
+93,Maldivler (Robinson ve Fun Adaları),Maldivler,Kuzey Malé,"4.1755,73.5093",Yüksek,Açık,Mercan resifleri; sualtı dalışı; su üstü bungalovlar,
+94,Manisa Fabrikalar Bölgesi ve Şehir Merkezi,Manisa,Merkez,"38.619, 27.426",Düşük,Açık,Şehir Gezisi,https://gorsel-linki.com/manisa-merkez.jpg
+95,Girmeli Köyü,Mardin,Nusaybin,"37.0500,41.2167",Orta,Açık,Tarihi köy mimarisi; Mezopotamya ovası manzarası,
+96,Mardin Dara Antik Kenti,Mardin,Artuklu,"37.178, 40.954",Yüksek,Müze/Açık,Arkeolojik Gezi,https://gorsel-linki.com/dara.jpg
+97,Mardin Eski Şehir,Mardin,Artuklu,"37.312, 40.735",Çok Yüksek,Açık,Mimari Fotoğrafçılık,https://gorsel-linki.com/mardin.jpg
+98,Mardin Havalimanı ve Karayolu Hattı,Mardin,Kızıltepe,"37.231, 40.635",Düşük,Açık,Ulaşım,https://gorsel-linki.com/mardin-yolu.jpg
+99,Mardin Midyat Sıla Konağı,Mardin,Midyat,"37.412, 41.372",Çok Yüksek,Müze/Açık,Konağın Terasında Fotoğraf,https://gorsel-linki.com/sila-konagi.jpg
+100,Midyat Konuk Evi (Hercai Konağı),Mardin,Midyat,"37.412, 41.370",Çok Yüksek,Müze/Açık,"Mimari Fotoğrafçılık, Kültür Turu",https://gorsel-linki.com/midyat-konak.jpg
+101,Midyat Tarihi Pazar ve Gümüşçüler Çarşısı,Mardin,Midyat,"37.414, 41.375",Yüksek,Açık,Telkari Alışverişi,https://gorsel-linki.com/midyat-pazar.jpg
+102,Tarihi Mardin Dar Sokaklar ve Abbaralar,Mardin,Artuklu,"37.313, 40.734",Çok Yüksek,Açık,"Kültür Gezisi, Alışveriş",https://gorsel-linki.com/mardin-sokak.jpg
+103,Mersin,Mersin,Merkez,"36.8000,34.6333",Orta,Açık,Sahil bolevardı; tarihi kale; Kızkalesi günübirlik turu,
+104,Bodrum,Muğla,Bodrum,"37.0344,27.4305",Yüksek,Açık,Bodrum Kalesi; Mausoleum; yat limanı; sahil kafeler,
+105,Bodrum Antik Tiyatro ve Sahili,Muğla,Bodrum,"37.039, 27.424",Çok Yüksek,Açık,"Konser, Kültür Turu",https://gorsel-linki.com/bodrum.jpg
+106,Bodrum Bitez Sahili,Muğla,Bodrum,"37.029, 27.384",Çok Yüksek,Açık,"Su Sporları, Yürüyüş",https://gorsel-linki.com/bitez.jpg
+107,Fethiye Kayaköy Hayalet Köy,Muğla,Fethiye,"36.575, 29.090",Çok Yüksek,Müze/Açık,"Tarihi Keşif, Fotoğraf",https://gorsel-linki.com/kayakoy.jpg
+108,Gümüşlük Koyu ve Tavşan Adası,Muğla,Bodrum,"37.054, 27.234",Çok Yüksek,Açık,"Deniz Kenarı Gastronomi, Gün Batımı",https://gorsel-linki.com/gumusluk.jpg
+109,Hasanlar Köyü,Muğla,Milas,"37.2167,27.7833",Orta,Açık,Orman ve kırsal doku; kelebek türleri gözlemi; sessiz doğa yürüyüşü,
+110,Köyceğiz Sığla Ormanları,Muğla,Köyceğiz,"36.950, 28.670",Orta,Açık,Doğa Fotoğrafçılığı,https://gorsel-linki.com/sigla.jpg
+111,Marmaris,Muğla,Marmaris,"36.8553,28.2717",Yüksek,Açık,Tekne turları; yat marinası; tarihi kale; Hisarönü koyu,
+112,Marmaris Yat Limanı ve Plajları,Muğla,Marmaris,"36.850, 28.270",Çok Yüksek,Açık,"Yat Turu, Gece Hayatı",https://gorsel-linki.com/marmaris.jpg
+113,Milas Tarihi Sokakları ve Arasta,Muğla,Milas,"37.316, 27.783",Yüksek,Açık,"Mimari Fotoğrafçılık, Kültür",https://gorsel-linki.com/milas-sokak.jpg
+114,Milas Çökertme Koyu,Muğla,Milas,"37.001, 27.791",Yüksek,Açık,"Yüzme, Kamp",https://gorsel-linki.com/cokertme.jpg
+115,Muğla Bozüyük Meydanı,Muğla,Yatağan,"37.339, 28.232",Çok Yüksek,Açık,Dizi Seti Gezisi,https://gorsel-linki.com/bozuyuk-meydan.jpg
+116,Muğla Eski Şehir ve Tarihi Evler,Muğla,Menteşe,"37.218, 28.366",Çok Yüksek,Açık,"Kültür Gezisi, Fotoğrafçılık",https://gorsel-linki.com/mugla-arasta.jpg
+117,Muğla Köyceğiz Göl Kıyısı,Muğla,Köyceğiz,"36.912, 28.685",Yüksek,Açık,"Sakinlik, Fotoğrafçılık",https://gorsel-linki.com/koycegiz-gol.jpg
+118,Muğla Köyceğiz Yaylaları,Muğla,Köyceğiz,"36.969, 28.694",Yüksek,Açık,Doğa Yürüyüşü,https://gorsel-linki.com/koycegiz.jpg
+119,Muğla Marmaris Saklıgöl,Muğla,Marmaris,"36.985, 28.324",Yüksek,Açık,"Kahvaltı, Doğa Yürüyüşü",https://gorsel-linki.com/sakligol.jpg
+120,Muğla Şehir Merkezi ve Arasta,Muğla,Menteşe,"37.215, 28.366",Yüksek,Açık,"Kültür Gezisi, Alışveriş",https://gorsel-linki.com/mugla-arasta.jpg
+121,Selimiye Koyu ve Çevresi,Muğla,Marmaris,"36.708, 28.093",Çok Yüksek,Açık,"Mavi Tur, Dinlenme",https://gorsel-linki.com/selimiye-koyu.jpg
+122,Selimiye Köyü ve Limanı,Muğla,Marmaris,"36.708, 28.093",Çok Yüksek,Açık,"Tekne Turu, Dinlenme",https://gorsel-linki.com/selimiye.jpg
+123,Selimiye ve Bozburun Kıyıları,Muğla,Marmaris,"36.708, 28.093",Çok Yüksek,Açık,"Yat Turizmi, Sakinlik",https://gorsel-linki.com/selimiye.jpg
+124,Sığla Ormanları ve Gizli Koylar,Muğla,Fethiye,"36.621, 29.116",Yüksek,Açık,"Doğa Yürüyüşü, Kamp",https://gorsel-linki.com/fethiye-koy.jpg
+125,Yatağan Bozüyük Köyü (Güzel Köy),Muğla,Yatağan,"37.339, 28.232",Çok Yüksek,Açık,"Dizi Turu, Yöresel Kahvaltı",https://gorsel-linki.com/bozuyuk.jpg
+126,Yatağan Kırsalı ve Zeytinlikler,Muğla,Yatağan,"37.341, 28.133",Orta,Açık,"Doğa Yürüyüşü, Yerel Gözlem",https://gorsel-linki.com/yatagan-kirsal.jpg
+127,Yeşilyurt Köyü (Organik Köy),Muğla,Menteşe,"37.261, 28.271",Orta,Açık,"Köy Kahvaltısı, Fotoğraf",https://gorsel-linki.com/yesilyurt.jpg
+128,Ölüdeniz ve Kelebekler Vadisi Hattı,Muğla,Fethiye,"36.548, 29.126",Çok Yüksek,Açık,"Paragliding, Manzara",https://gorsel-linki.com/oludeniz.jpg
+129,İztuzu Plajı ve Kral Mezarları Hattı,Muğla,Dalyan,"36.791, 28.621",Çok Yüksek,Açık,"Tekne Turu, Caretta Gözlemi",https://gorsel-linki.com/dalyan.jpg
+130,Gomeda Vadisi ve Mağaraları,Nevşehir,Ürgüp,"38.583, 34.908",Yüksek,Açık,Korku Temalı Doğa Gezisi,https://gorsel-linki.com/gomeda.jpg
+131,Göreme Açık Hava Müzesi,Nevşehir,Göreme,"38.641, 34.845",Çok Yüksek,Müze/Açık,"Balon Gözlemi, Tarih Keşfi",https://gorsel-linki.com/goreme-muze.jpg
+132,Gülşehir Açıksaray Harabeleri,Nevşehir,Gülşehir,"38.718, 34.645",Yüksek,Açık,"Tarihi Gezi, Fotoğraf",https://gorsel-linki.com/gulsehir.jpg
+133,Kapadokya Kayalıkları ve Vadiler,Nevşehir,Avanos,"38.715, 34.843",Çok Yüksek,Açık,"At Binme, Yürüyüş",https://gorsel-linki.com/avanos.jpg
+134,Kapadokya Peribacaları,Nevşehir,Ürgüp,"38.630, 34.912",Çok Yüksek,Açık,"Balon Turu, Fotoğraf",https://gorsel-linki.com/kapadokya.jpg
+135,Mustafapaşa Köyü,Nevşehir,Ürgüp,"38.584, 34.897",Orta,Açık,Kültür Gezisi,https://gorsel-linki.com/mustafapasa.jpg
+136,Old Greek House (Asmalı Konak),Nevşehir,Mustafapaşa,"38.583, 34.899",Çok Yüksek,Müze/Restoran,Tarihi Konak Gezisi,https://gorsel-linki.com/asmalikonak.jpg
+137,Saruhan Kervansarayı,Nevşehir,Avanos,"38.7183,34.8461",Yüksek,Açık,Selçuklu kervansarayı gezisi; gece şovları; tarihi mimari,
+138,Yer Gök Aşk Konağı (Hancıoğlu Konağı),Nevşehir,Ürgüp,"38.632, 34.915",Yüksek,Ziyarete Açık,"Müze Gezisi, Fotoğraf",https://gorsel-linki.com/yergokask.jpg
+139,Ürgüp Devrent Vadisi (Hayal Vadisi),Nevşehir,Ürgüp,"38.672, 34.886",Çok Yüksek,Açık,Peribacası Gözlemi,https://gorsel-linki.com/devrent.jpg
+140,Ürgüp Şehir Merkezi,Nevşehir,Ürgüp,"38.630, 34.912",Çok Yüksek,Açık,"Alışveriş, Kültür Turu",https://gorsel-linki.com/urgup.jpg
+141,JFK Havalimanı,New York,Queens,"40.6413,-73.7781",Orta,Açık,Uluslararası ulaşım noktası; ikonik terminal binaları,
+142,New York Şehir Merkezi,New York,Manhattan,"40.7128,-74.0060",Yüksek,Açık,Turistik geziler,
+143,Ordu Boztepe ve Teleferik Hattı,Ordu,Altınordu,"40.985, 37.868",Çok Yüksek,Açık,"Yamaç Paraşütü, Seyir",https://gorsel-linki.com/boztepe.jpg
+144,Kadirli Barajı ve Çevresi,Osmaniye,Kadirli,"37.421, 36.142",Yüksek,Açık,"Nostalji Gezisi, Fotoğraf",https://gorsel-linki.com/selvi-boylum.jpg
+145,Ambarlı Yaylası,Rize,Çamlıhemşin,"40.912, 41.055",Orta,Açık (Mevsimlik),Doğa Fotoğrafçılığı,https://gorsel-linki.com/ambarli.jpg
+146,Fırtına Deresi ve Taş Köprüler,Rize,Ardeşen,"41.192, 41.002",Çok Yüksek,Açık,"Rafting, Kültür Turu",https://gorsel-linki.com/firtina.jpg
+147,Rize Kalesi ve Panoramik Tepeler,Rize,Merkez,"41.026, 40.518",Yüksek,Açık,"Manzara İzleme, Çay Keyfi",https://gorsel-linki.com/rize-kale.jpg
+148,Çamlıhemşin Konakları,Rize,Çamlıhemşin,"41.045, 41.062",Çok Yüksek,Açık,Yayla Turizmi,https://gorsel-linki.com/rize-konak.jpg
+149,Pervari ve Siirt Sarp Dağ Yolları,Siirt,Merkez,"37.940, 41.940",Düşük,Açık,"Manzara İzleme, Sürüş",https://gorsel-linki.com/siirt-yol.jpg
+150,Tekirdağ Sahil ve Hürriyet Mahallesi,Tekirdağ,Süleymanpaşa,"40.978, 27.511",Orta,Açık,"Yürüyüş, Rakı-Balık Kültürü",https://gorsel-linki.com/tekirdag.jpg
+151,Maçka Köprüyanı Köyü (Eren Bülbül Mevkii),Trabzon,Maçka,"40.712, 39.605",Yüksek (Anıt),Açık,"Ziyaret, Anma",https://gorsel-linki.com/macka-eren.jpg
+152,Of İlçesi,Trabzon,Of,"40.9500,40.2667",Orta,Açık,Çay bahçeleri; yaylaları; Solaklı Vadisi doğa yürüyüşü,
+153,Sümela Manastırı ve Altındere Vadisi,Trabzon,Maçka,"40.690, 39.658",Çok Yüksek,Müze/Açık,"Kültür Turu, Fotoğraf",https://gorsel-linki.com/sumela.jpg
+154,Sürmene Köyleri ve Yaylaları,Trabzon,Sürmene,"40.910, 40.118",Yüksek,Açık,"Doğa Fotoğrafçılığı, Gastronomi",https://gorsel-linki.com/surmene.jpg
+155,Vazelon Manastırı ve Çevresi,Trabzon,Maçka,"40.758, 39.585",Yüksek,Kısmi Açık,Doğa Yürüyüşü,https://gorsel-linki.com/vazelon.jpg
+156,Van Akdamar Adası ve Kilisesi,Van,Gevaş,"38.342, 43.033",Çok Yüksek,Müze/Açık,"Tarihi Gezi, Fotoğrafçılık",https://gorsel-linki.com/akdamar.jpg
+157,Van Gevaş Vizontele Platosu,Van,Gevaş,"38.302, 43.108",Çok Yüksek,Açık (Kısmi),"Set Ziyareti, Fotoğraf",https://gorsel-linki.com/vizontele.jpg
+158,Rodos Adası,Yunanistan,Rodos,"36.4349,28.2176",Yüksek,Açık,Ortaçağ surları; Rodos Şövalyeleri tarihi; plajlar; deniz kıyısı kafeler,
+159,Zonguldak Ereğli,Zonguldak,Ereğli,"41.2764,31.4202",Orta,Açık,Tarihi kömür madeni müzesi; sahil; Ereğli Kalesi,
+160,Bozcaada,Çanakkale,Bozcaada,"39.8317,26.0533",Yüksek,Açık,Şarap bağları; tarihi kale; plajlar; rüzgar sörfü,
+161,Eceabat Köyleri ve Zeytinlikler,Çanakkale,Eceabat,"40.185, 26.358",Yüksek,Açık,Tarih ve Doğa Turu,https://gorsel-linki.com/eceabat.jpg
+162,Geyikli Beldesi,Çanakkale,Ezine,"39.8167,26.1667",Orta,Açık,Sahil; zeytinlikler; Çanakkale Boğazı yakını,
+163,Çanakkale Şehitliği ve Tarihi Yarımada,Çanakkale,Merkez,"40.051, 26.234",Çok Yüksek,Açık,"Şehitlik Ziyareti, Tarih Turu",https://gorsel-linki.com/canakkale-sehitlik.jpg
+164,?stinye,İstanbul,Sarıyer,"41.0862, 29.0265",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+165,Arnavutköy Sahili,İstanbul,Beşiktaş,"41.0390, 29.0686",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+166,Atatürk Kültür Merkezi (AKM),İstanbul,Beyoğlu,"41.036, 28.985",Çok Yüksek,Açık,Sanat Etkinlikleri,https://gorsel-linki.com/akm.jpg
+167,Ayazağa Film Platosu,İstanbul,Sarıyer,"41.115, 28.992",Düşük,Özel İzinle,Film Çekimi,https://gorsel-linki.com/ayazaga.jpg
+168,Ağva,İstanbul,Şile,"41.0758, 29.0670",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+169,Balat,İstanbul,Fatih,"41.0617, 29.0995",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+170,Balat Sokakları,İstanbul,Fatih,"41.031, 28.947",Yüksek,Açık,Cafe-Kültür Gezisi,https://gorsel-linki.com/balat.jpg
+171,Balat/Ayvansaray Sokakları (Çukur),İstanbul,Fatih,"41.034, 28.941",Çok Yüksek,Açık,"Dizi Turu, Duvar Yazısı Avı",https://gorsel-linki.com/cukur-balat.jpg
+172,Bebek,İstanbul,Beşiktaş,"41.0769,29.0369",Yüksek,Açık,Sahil kafeler; yat marinası; Boğaz yürüyüşü; balık restoranları,
+173,Bebek Sahil Şeridi,İstanbul,Beşiktaş,"41.076, 29.043",Çok Yüksek,Açık,"Yürüyüş, Lüks Kafe Kültürü",https://gorsel-linki.com/bebek.jpg
+174,Bebek Sahili,İstanbul,Beşiktaş,"41.0423, 29.0281",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+175,Bebek Sahili ve Fenerli Köşk,İstanbul,Beşiktaş,"41.076, 29.043",Çok Yüksek,Açık,"Yürüyüş, Kahve Keyfi",https://gorsel-linki.com/bebek-kosk.jpg
+176,Belgrad Ormanı,İstanbul,Sarıyer,"41.0666, 29.0328",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+177,Beyazıt Meydanı,İstanbul,Fatih,"41.0108,28.9644",Yüksek,Açık,İstanbul Üniversitesi; tarihi çeşme; sahaf sokağı,
+178,Beykoz Adliyesi ve Eski Sokaklar,İstanbul,Beykoz,"41.132, 29.091",Orta,Açık,Tarihi Şehir Gezisi,https://gorsel-linki.com/beykoz-sokak.jpg
+179,Beykoz Film Platosu (Eski Kundura),İstanbul,Beykoz,"41.134, 29.071",Yüksek,Etkinlik Bazlı,"Set Gezisi, Festival",https://gorsel-linki.com/beykoz-plato.jpg
+180,Beykoz Kundura Fabrikası,İstanbul,Beykoz,"41.0564, 29.0222",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+181,Beykoz Kundura Fabrikası (İç Mekan),İstanbul,Beykoz,"41.134, 29.071",Çok Yüksek,Özel İzinle,Film Platosu Gezisi,https://gorsel-linki.com/kundura-plato.jpg
+182,Beykoz Sahili,İstanbul,Beykoz,"41.1309,29.0956",Orta,Açık,Boğaz yürüyüşü ve piknik,
+183,Beyoğlu,İstanbul,Beyoğlu,"41.0335,28.9752",Yüksek,Açık,Kafe ve restoranlar; sanat galerileri; tarihi pasajlar,
+184,Beyoğlu Arka Sokaklar ve Pavyonlar,İstanbul,Beyoğlu,"41.034, 28.978",Orta,Açık,Gece Hayatı Gözlemi,https://gorsel-linki.com/beyoglu-gece.jpg
+185,Beyoğlu Arka Sokaklar ve Tarihi Apartmanlar,İstanbul,Beyoğlu,"41.033, 28.977",Çok Yüksek,Açık,"Kültür ve Sanat Turu, Gece Hayatı",https://gorsel-linki.com/beyoglu-sokak.jpg
+186,Beyoğlu'nun Arka Sokakları,İstanbul,Beyoğlu,"41.0310,28.9745",Orta,Açık,Tarihi pasajlar; kafe kültürü; sokak sanatı,
+187,Beşiktaş Sahili ve Dikilitaş,İstanbul,Beşiktaş,"41.042, 29.008",Çok Yüksek,Açık,"Yürüyüş, Şehir Turu",https://gorsel-linki.com/besiktas.jpg
+188,Beşiktaş Çar??,İstanbul,Beşiktaş,"41.0365, 29.0444",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+189,Büyükada,İstanbul,Adalar,"41.0110, 29.0818",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+190,Cankurtaran ve Ahırkapı Sokakları,İstanbul,Fatih,"41.004, 28.981",Yüksek,Açık,"Nostalji Turu, Tarihi Doku",https://gorsel-linki.com/cankurtaran.jpg
+191,Cihangir,İstanbul,Beyoğlu,"41.0569, 29.0471",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+192,Dolmabahçe Sarayı,İstanbul,Beşiktaş,"41.0391,29.0004",Yüksek,Açık,Osmanlı son dönemi mimarisi; Atatürk'ün vefat ettiği oda; bahçe turu,
+193,Eminönü Meydanı,İstanbul,Fatih,"41.0173,28.9711",Yüksek,Açık,Mısır Çarşısı; Yeni Cami; Boğaz vapur iskelesi; simitçiler,
+194,Emirgan Korusu,İstanbul,Sarıyer,"41.0417, 29.0401",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+195,Esenyurt,İstanbul,Esenyurt,"41.0287,28.6724",Düşük,Açık,Genel şehir gözlemi,
+196,Eski İstanbul Mahalleleri ve Sokak Kültürü,İstanbul,Fatih,"41.018, 28.944",Yüksek,Açık,"Nostalji Gezisi, Sokak Lezzetleri",https://gorsel-linki.com/fatih-mahalle.jpg
+197,Fatih,İstanbul,Fatih,"41.0186,28.9397",Orta,Açık,Tarihi camiler; Kapalıçarşı yakını; yerel pazar,
+198,Fener,İstanbul,Fatih,"41.0663, 29.0167",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+199,Galata Kulesi,İstanbul,Beyoğlu,"41.0428, 29.0380",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+200,Galata Kulesi Çevresi,İstanbul,Beyoğlu,"41.0258,28.9742",Yüksek,Açık,Galata Kulesi; tarihi sokaklar; gece hayatı,
+201,Galata Köprüsü,İstanbul,Eminönü,"41.0167,28.9739",Yüksek,Açık,Balık tutma; Altın Boynuz manzarası; yürüyüş,
+202,Göktürk,İstanbul,Eyüpsultan,"41.0998, 29.0264",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+203,Gülhane Parkı,İstanbul,Fatih,"41.0762, 29.0263",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+204,Haydarpaşa Garı,İstanbul,Kadıköy,"40.9996,29.0229",Yüksek,Açık (kısıtlı),Tarihi tren garı fotoğrafçılığı; boğaz manzarası; mimari gezi,
+205,Heybeliada,İstanbul,Adalar,"41.0649, 29.0582",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+206,Kadıköy,İstanbul,Kadıköy,"40.9903,29.0230",Yüksek,Açık,Pazarlar; kafe kültürü; vapur yolculuğu,
+207,Kadıköy Boğa Heykeli,İstanbul,Kadıköy,"41.0754, 29.0936",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+208,Kadıköy Sahili (Moda),İstanbul,Kadıköy,"40.9820,29.0310",Yüksek,Açık,Moda sahil yürüyüşü; tarihi çay bahçeleri; vapur yolculuğu,
+209,Kandilli,İstanbul,Üsküdar,"41.0374, 29.0166",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+210,Kapalıçarşı,İstanbul,Fatih,"41.0107,28.9680",Yüksek,Açık,Alışveriş; tarihi mimari; altın ve mücevher,
+211,Kapalıçarşı Çatıları ve Mahmutpaşa Hattı,İstanbul,Fatih,"41.010, 28.968",Çok Yüksek,Açık/Özel,"Fotoğrafçılık, Alışveriş",https://gorsel-linki.com/kapalicarsi-cati.jpg
+212,Karaköy,İstanbul,Beyoğlu,"41.0425, 29.0482",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+213,Kemerburgaz,İstanbul,Eyüpsultan,"41.0116, 29.0697",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+214,Kilyos,İstanbul,Sarıyer,"41.2425,29.0272",Orta,Açık,Karadeniz kumsalı; sörf; kamp alanları,
+215,Kilyos Sahili,İstanbul,Sarıyer,"41.0227, 29.0295",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+216,Kireçburnu Sahili ve Parkı,İstanbul,Sarıyer,"41.141, 29.052",Çok Yüksek,Açık,"Çay İçme, Dizi Anması",https://gorsel-linki.com/kirecburnu.jpg
+217,Kundura Fabrikası Dönem Platosu,İstanbul,Beykoz,"41.134, 29.071",Çok Yüksek,Özel İzinle,Dönem Dizisi Turu,https://gorsel-linki.com/donem-platosu.jpg
+218,Kuzguncuk,İstanbul,Üsküdar,"41.0912, 29.0356",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+219,Kuzguncuk Evleri,İstanbul,Üsküdar,"41.037, 29.030",Yüksek,Açık,"Fotoğrafçılık, Nostalji Gezisi",https://gorsel-linki.com/kuzguncuk.jpg
+220,Kuzguncuk Lazın Köşkü,İstanbul,Üsküdar,"41.036, 29.032",Yüksek,Ziyarete Açık,Nostalji Gezisi,https://gorsel-linki.com/lazin-kosku.jpg
+221,Kız Kulesi,İstanbul,Üsküdar,"41.0211,29.0041",Yüksek,Açık,Boğaz ve İstanbul panoraması; tekne turu; tarihi kule,
+222,Levent ve Maslak İş Merkezleri,İstanbul,Beşiktaş,"41.077, 29.012",Orta,Açık,Şehir Gezisi,https://gorsel-linki.com/levent.jpg
+223,Moda Sahili,İstanbul,Kadıköy,"41.0868, 29.0472",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+224,Nişantaşı,İstanbul,Şişli,"41.0767, 29.0217",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+225,Ortaköy,İstanbul,Beşiktaş,"41.0120, 29.0922",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+226,Ortaköy Meydanı,İstanbul,Beşiktaş,"41.0478,29.0270",Yüksek,Açık,Ortaköy Camii; Boğaziçi Köprüsü manzarası; sokak yemekleri,
+227,Paşabahçe ve Eski Cam Fabrikası Çevresi,İstanbul,Beykoz,"41.118, 29.091",Çok Yüksek,Açık/Özel,"Dizi Seti Gezisi, Nostalji",https://gorsel-linki.com/pasabahce.jpg
+228,Pierre Loti Tepesi,İstanbul,Eyüpsultan,"41.0133, 29.0993",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+229,Pierre Loti Tepesi ve Mezarlıklar,İstanbul,Eyüpsultan,"41.053, 28.933",Çok Yüksek,Açık,"Manzara İzleme, Tarih Turu",https://gorsel-linki.com/pierre-loti.jpg
+230,Polonezköy,İstanbul,Beykoz,"41.0299, 29.0743",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+231,Reşitpaşa ve Emirgan Villaları,İstanbul,Sarıyer,"41.104, 29.034",Yüksek,Kısıtlı,"Dizi Turu, Manzara Seyri",https://gorsel-linki.com/resitpasa.jpg
+232,Rumeli Hisar?,İstanbul,Sarıyer,"41.0420, 29.0849",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+233,Rumelihisarı,İstanbul,Sarıyer,"41.0853,29.0547",Yüksek,Açık,Osmanlı kalesi gezisi; Boğaz manzarası; açık hava konserleri,
+234,Salacak İskelesi,İstanbul,Üsküdar,"41.0172,29.0136",Orta,Açık,Kız Kulesi panoraması; Boğaz manzarası; balık tutma,
+235,Samatya,İstanbul,Fatih,"40.9981,28.9272",Orta,Açık,Tarihi Rum ve Ermeni kiliseleri; sahil yürüyüşü; geleneksel mahalle dokusu,
+236,Sarayburnu,İstanbul,Fatih,"41.0133,28.9833",Yüksek,Açık,İstanbul panoraması; balıkçı tekneleri; tarihi surlar başlangıcı,
+237,Sarıyer Balıkçı Köyü,İstanbul,Sarıyer,"41.166, 29.050",Yüksek,Açık,"Gastronomi, Deniz Havası",https://gorsel-linki.com/sariyer.jpg
+238,Sirkeci Garı,İstanbul,Fatih,"41.0136,28.9747",Yüksek,Açık (müze),Orient Express müzesi; tarihi bina fotoğrafçılığı,
+239,Sirkeci Garı ve Çevresi,İstanbul,Fatih,"41.014, 28.977",Çok Yüksek,Açık,"Tarih Gezisi, Fotoğraf",https://gorsel-linki.com/sirkeci.jpg
+240,Sultanahmet,İstanbul,Fatih,"41.0306, 29.0111",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+241,Sultanahmet Meydanı,İstanbul,Fatih,"41.0054,28.9768",Yüksek,Açık,Ayasofya; Sultanahmet Camii; Topkapı Sarayı,
+242,Sultanahmet Meydanı ve Hipodrom,İstanbul,Fatih,"41.005, 28.976",Çok Yüksek,Açık,"Tarih Gezisi, Müze Ziyareti",https://gorsel-linki.com/sultanahmet.jpg
+243,Süleymaniye,İstanbul,Fatih,"41.0750, 29.0578",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+244,Taksim Meydan?,İstanbul,Beyoğlu,"41.0515, 29.0282",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+245,Tarabya,İstanbul,Sarıyer,"41.0600, 29.0518",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+246,Tarlabaşı,İstanbul,Beyoğlu,"41.0326, 29.0609",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+247,Topkapı Sarayı,İstanbul,Fatih,"41.0115,28.9833",Yüksek,Açık,Osmanlı hazinesi; harem; deniz manzaralı bahçeler; Mukaddes Emanetler Dairesi,
+248,Tuzla Marina ve Sahil Şeridi,İstanbul,Tuzla,"40.816, 29.303",Yüksek,Açık,"Yürüyüş, Gençlik Aktivite",https://gorsel-linki.com/tuzla-sahil.jpg
+249,Vatan Caddesi ve Emniyet Müdürlüğü Çevresi,İstanbul,Fatih,"41.025, 28.941",Düşük,Açık,"Resmi İşlemler, Şehir Akışı",https://gorsel-linki.com/emniyet-vatan.jpg
+250,Vefa,İstanbul,Fatih,"41.0708, 29.0320",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+251,Vefa Semti ve Tarihi Sokaklar,İstanbul,Fatih,"41.015, 28.958",Yüksek,Açık,"Boza İçimi, Tarihi Doku Gezisi",https://gorsel-linki.com/vefa.jpg
+252,Yedi Kule Zindanları,İstanbul,Fatih,"40.9981,28.9215",Orta,Açık,Tarihi sur ve zindanlar gezisi; Bizans dönemi tarihi,
+253,Yedikule Zindanları,İstanbul,Fatih,"41.0303, 29.0927",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+254,Yeniköy,İstanbul,Sarıyer,"41.0301, 29.0705",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+255,Yeniköy Sahili,İstanbul,Sarıyer,"41.1203,29.0583",Orta,Açık,Boğaz kıyısı yürüyüşü; balık restoranları,
+256,Yerebatan Sarnıcı,İstanbul,Fatih,"41.0084,28.9779",Yüksek,Açık,Bizans dönemi sarnıç gezisi; sütunlar; gece etkinlikleri,
+257,Zekeriyaköy Villaları,İstanbul,Sarıyer,"41.205, 29.028",Düşük,Özel Mülk,Konut Projeleri İnceleme,https://gorsel-linki.com/zekeriyakoy.jpg
+258,Çaml?ca Tepesi,İstanbul,Üsküdar,"41.0234, 29.0343",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+259,Çengelköy,İstanbul,Üsküdar,"41.0801, 29.0511",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+260,Çengelköy Sahili,İstanbul,Üsküdar,"41.050, 29.052",Yüksek,Açık,"Çay Bahçesi, Yürüyüş",https://gorsel-linki.com/cengelkoy.jpg
+261,Çukurcuma,İstanbul,Beyoğlu,"41.0291,28.9761",Yüksek,Açık,Antika dükkanları; sanatçı stüdyoları; tarihi apartmanlar,
+262,Özel Okul ve Kampüs Binaları,İstanbul,Sarıyer,"41.125, 29.020",Düşük,Kısıtlı,Eğitim,https://gorsel-linki.com/kampus.jpg
+263,Üsküdar,İstanbul,Üsküdar,"41.0228,29.0150",Orta,Açık,Kız Kulesi; sahil yürüyüşü; tarihi camiler,
+264,Üsküdar İskelesi ve Çevresi,İstanbul,Üsküdar,"41.027, 29.015",Çok Yüksek,Açık,"Vapur Gezisi, Manzara",https://gorsel-linki.com/uskudar.jpg
+265,Üsküdar-Güngören Arası Mahalleler,İstanbul,Güngören,"41.020, 28.870",Düşük,Açık,Yerel Yaşam Gözlemi,https://gorsel-linki.com/gungoren-sokak.jpg
+266,İstanbul Çağlayan Adliyesi,İstanbul,Kağıthane,"41.082, 28.981",Düşük,Kısıtlı (Resmi Kurum),Gözlem,https://gorsel-linki.com/adliye.jpg
+267,İstiklal Caddesi,İstanbul,Beyoğlu,"41.0147, 29.0447",Orta,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+268,İstinye Poligon ve Gecekondu Mahalleleri,İstanbul,Sarıyer,"41.115, 29.028",Düşük,Açık,Mahalle Kültürü Gözlemi,https://gorsel-linki.com/poligon.jpg
+269,İstinye ve Yeniköy Yalılar Hattı,İstanbul,Sarıyer,"41.118, 29.055",Çok Yüksek,Açık/Özel,"Yalı Gözlemi, Yürüyüş",https://gorsel-linki.com/istinye-yali.jpg
+270,Şile Plaj?,İstanbul,Şile,"41.0522, 29.0937",Yüksek,Açık,"Dizi seti ziyareti, Fotoğrafçılık",
+271,Şile Sahili ve Villaları,İstanbul,Şile,"41.174, 29.612",Yüksek,Açık,"Deniz Keyfi, Tatil",https://gorsel-linki.com/sile.jpg
+272,Şişli,İstanbul,Şişli,"41.0593,28.9870",Orta,Açık,Alışveriş merkezleri; İstiklal Caddesi yakını,
+273,Alaçatı Sokakları ve Taş Evler,İzmir,Çeşme,"38.283, 26.374",Çok Yüksek,Açık,"Sörf, Butik Otel Gezisi",https://gorsel-linki.com/alacati.jpg
+274,Alsancak Stadyumu ve Çevresi,İzmir,Konak,"38.438, 27.147",Yüksek,Açık,"Spor Müzesi Gezisi, Nostalji",https://gorsel-linki.com/alsancak-stad.jpg
+275,Bademler Köyü ve Tiyatrosu,İzmir,Urla,"38.305, 26.836",Çok Yüksek,Açık,"Köy Tiyatrosu İzleme, Kültür",https://gorsel-linki.com/bademler.jpg
+276,Bademli Köyü ve Zeytinlikler,İzmir,Dikili,"39.006, 26.790",Yüksek,Açık,"Köy Kahvaltısı, Zeytin Hasadı",https://gorsel-linki.com/dikili.jpg
+277,Basmane Garı ve Eski İzmir Sokakları,İzmir,Konak,"38.423, 27.142",Yüksek,Açık,"Tarih Keşfi, Ulaşım",https://gorsel-linki.com/basmane.jpg
+278,Birgi Tarihi Evleri ve Çakırağa Konağı,İzmir,Ödemiş,"38.257, 28.066",Çok Yüksek,Müze/Açık,Tarih ve Mimari Fotoğrafçılık,https://gorsel-linki.com/birgi.jpg
+279,Birgi Tarihi Köy Meydanı,İzmir,Ödemiş,"38.257, 28.066",Yüksek,Açık,"Tarih Gezisi, Gastronomi",https://gorsel-linki.com/birgi-meydan.jpg
+280,Bornova Eski Çarşı ve Sokak Araları,İzmir,Bornova,"38.462, 27.216",Düşük,Açık,"Nostalji Gezisi, Mahalle Kültürü",https://gorsel-linki.com/bornova.jpg
+281,Bostanlı Sahil ve Çevresi,İzmir,Karşıyaka,"38.455, 27.089",Çok Yüksek,Açık,"Gün Batımı İzleme, Spor",https://gorsel-linki.com/bostanlı.jpg
+282,Eski Foça Sahili ve Taş Evler,İzmir,Foça,"38.670, 26.756",Çok Yüksek,Açık,"Gün Batımı, Deniz Ürünleri",https://gorsel-linki.com/foca.jpg
+283,Eşrefpaşa ve Tarihi İzmir Mahalleleri,İzmir,Konak,"38.411, 27.132",Yüksek,Açık,"Nostalji Turu, Gastronomi",https://gorsel-linki.com/esrefpasa.jpg
+284,Gültepe Mahalleleri ve Eski Sokaklar,İzmir,Konak,"38.402, 27.165",Düşük,Açık,Nostaljik Gezi,https://gorsel-linki.com/gultepe.jpg
+285,Ildır Köyü ve Antik Tiyatro Çevresi,İzmir,Çeşme,"38.388, 26.478",Yüksek,Açık,"Gün Batımı İzleme, Balıkçılık",https://gorsel-linki.com/ildir.jpg
+286,Konak Meydanı,İzmir,Konak,"38.418, 27.128",Yüksek,Açık,Tarihi Gezi,https://gorsel-linki.com/konak.jpg
+287,Kordon Boyu ve Alsancak İskele,İzmir,Konak,"38.433, 27.138",Çok Yüksek,Açık,"Yürüyüş, Gün Batımı",https://gorsel-linki.com/kordon.jpg
+288,Kozak Yaylası,İzmir,Bergama,"39.245, 27.105",Yüksek,Açık,"Doğa Fotoğrafçılığı, Piknik",https://gorsel-linki.com/kozak-yaylasi.jpg
+289,Pasaport İskelesi ve Kordon Hattı,İzmir,Konak,"38.428, 27.133",Çok Yüksek,Açık,"Yürüyüş, Gün Batımı",https://gorsel-linki.com/pasaport.jpg
+290,Seferihisar,İzmir,Seferihisar,"38.1969,26.8380",Yüksek,Açık,Yavaş şehir deneyimi; organik pazar; tarihi dokular,
+291,Sığacık Kalesi ve Kaleiçi Sokakları,İzmir,Seferihisar,"38.194, 26.784",Çok Yüksek,Açık,"Yavaş Şehir Gezisi, Organik Pazar",https://gorsel-linki.com/sigacik.jpg
+292,Sığacık Köyü Meydanı,İzmir,Seferihisar,"38.194, 26.784",Çok Yüksek,Açık,"Yavaş Şehir Gezisi, Pazar",https://gorsel-linki.com/sigacik-meydan.jpg
+293,Sığacık Köyü ve Limanı (Kavak Yelleri Evi),İzmir,Seferihisar,"38.194, 26.786",Çok Yüksek,Açık,"Dizi Turu, Pazar Gezisi",https://gorsel-linki.com/sigacik-kavak.jpg
+294,Sığacık Köyü ve Yat Limanı,İzmir,Seferihisar,"38.194, 26.784",Çok Yüksek,Açık,"Gün Batımı, Gastronomi",https://gorsel-linki.com/sigacik-liman.jpg
+295,Tire Tarihi Çarşı ve Salı Pazarı,İzmir,Tire,"38.089, 27.734",Çok Yüksek,Açık,"Gastronomi, El Sanatları",https://gorsel-linki.com/tire.jpg
+296,Urla Bağ Yolları ve Taş Konaklar,İzmir,Urla,"38.324, 26.764",Yüksek,Açık,"Gastronomi, Bağ Gezisi",https://gorsel-linki.com/urla.jpg
+297,Urla ve Çeşme Sahil Villaları,İzmir,Çeşme,"38.312, 26.345",Çok Yüksek,Kısıtlı (Özel Mülk),"Manzara İzleme, Fotoğraf",https://gorsel-linki.com/cesme-villa.jpg
+298,Urla Çeşmealtı Sahili,İzmir,Urla,"38.354, 26.765",Çok Yüksek,Açık,"Yüzme, Sahil Yürüyüşü",https://gorsel-linki.com/cesmealti.jpg
+299,Urla İskele ve Tarihi Gümrük Binaları,İzmir,Urla,"38.361, 26.772",Çok Yüksek,Açık,"Balık Gastronomisi, Yürüyüş",https://gorsel-linki.com/urla-iskele.jpg
+300,Çeşme Marina ve Sahil Şeridi,İzmir,Çeşme,"38.324, 26.303",Çok Yüksek,Açık,"Yürüyüş, Tekne Turu",https://gorsel-linki.com/cesme-marina.jpg
+301,Halfeti (Eski),Şanlıurfa,Halfeti,"37.247, 37.868",Çok Yüksek,Kısmi Açık,Tekne Turu,https://gorsel-linki.com/halfeti.jpg
+302,Halfeti Saklı Cennet (Batık Şehir),Şanlıurfa,Halfeti,"37.247, 37.868",Çok Yüksek,Açık,"Tekne Turu, Sualtı Fotoğrafçılığı",https://gorsel-linki.com/halfeti-batik.jpg
+303,Hilvan İlçesi,Şanlıurfa,Hilvan,"37.4833,38.9667",Orta,Açık,Tarihi mezra ve köy yaşamı gözlemi; Dicle havzası doğası,
+304,Şanlıurfa Balıklıgöl ve Çevresi,Şanlıurfa,Eyyübiye,"37.147, 38.784",Çok Yüksek,Açık,"İnanç Turizmi, Fotoğraf",https://gorsel-linki.com/balikli-gol.jpg

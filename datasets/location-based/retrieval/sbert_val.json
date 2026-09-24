@@ -1,0 +1,907 @@
+[
+  {
+    "query": "İstanbul'daki sahne müzik endüstrisiyle hesaplaşmanın yaşandığı gerilimli bir bölümü oluşturmaktadır.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Hayat Bazen Tatlıdır dizisinin ana çekim mekanlarından biri Çengelköy ve çevresidir.",
+    "passage": "Çengelköy İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 259
+  },
+  {
+    "query": "Ankara'nın büyükelçilik bölgesindeki sahneler İlyas Bazna'nın casusluğunun geçtiği temel ortamı oluşturmaktadır.",
+    "passage": "Çankaya (Ankara Büyükelçilikler Bölgesi) Ankara Çankaya Atatürk Orman Çiftliği; büyükelçilik binaları; tarihi köşkler",
+    "lokasyon_id": 29
+  },
+  {
+    "query": "Genco ailesinin yaşadığı ve dizinin simgesi haline gelen Sıla Konağı",
+    "passage": "Mardin Midyat Sıla Konağı Mardin Midyat Konağın Terasında Fotoğraf",
+    "lokasyon_id": 99
+  },
+  {
+    "query": "Haydarpaşa Garı'ndaki kaçış sahnesi Bryan Mills'in kaçırılan karısının izini sürdüğü kritik bölümü oluşturmaktadır.",
+    "passage": "Haydarpaşa Garı İstanbul Kadıköy Tarihi tren garı fotoğrafçılığı; boğaz manzarası; mimari gezi",
+    "lokasyon_id": 204
+  },
+  {
+    "query": "Cüneyt Arkın'ın İstanbul sokaklarındaki aksiyon ve kovalamaca sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Karakterlerin at bindiği peri bacaları ve vadi yolları",
+    "passage": "Kapadokya Kayalıkları ve Vadiler Nevşehir Avanos At Binme, Yürüyüş",
+    "lokasyon_id": 133
+  },
+  {
+    "query": "Kars'ın köylerindeki yerel yaşamı anlatan belgesel çekimleri",
+    "passage": "Kars Kalesi ve Tarihi Hamamlar Kars Merkez Kültür Turu",
+    "lokasyon_id": 80
+  },
+  {
+    "query": "Fatih'teki inşaat alanı yakınlarındaki sahneler işçi sınıfının gündelik mücadelesini aktarmaktadır.",
+    "passage": "Fatih İstanbul Fatih Tarihi camiler; Kapalıçarşı yakını; yerel pazar",
+    "lokasyon_id": 197
+  },
+  {
+    "query": "Saruhanlı ailesinin Ödemiş/Birgi'deki kökleri ve aile konağı",
+    "passage": "Birgi Tarihi Köy Meydanı İzmir Ödemiş Tarih Gezisi, Gastronomi",
+    "lokasyon_id": 279
+  },
+  {
+    "query": "Kanatsız Kuşlar dizisinin ana çekim mekanlarından biri Tarabya ve çevresidir.",
+    "passage": "Tarabya İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 245
+  },
+  {
+    "query": "Dizinin İzmir genelindeki modern dış çekimleri",
+    "passage": "Alaçatı Sokakları ve Taş Evler İzmir Çeşme Sörf, Butik Otel Gezisi",
+    "lokasyon_id": 273
+  },
+  {
+    "query": "Bir Çocuk Sevdim dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "İstiklal Caddesi kalabalığında geçen kovalamaca sahnesi filmin en eğlenceli bölümlerinden biridir.",
+    "passage": "İstiklal Caddesi İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 267
+  },
+  {
+    "query": "Vuslat dizisinin ana çekim mekanlarından biri Karaköy ve çevresidir.",
+    "passage": "Karaköy İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 212
+  },
+  {
+    "query": "Zeki ve Metin ikilisinin şehirdeki komedi maceraları Beyoğlu sokaklarında başlamaktadır.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Abuzer'in mahallesindeki genel sokak sahneleri Beyoğlu çevresinde çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Mahmut'un Cihangir'deki dairesinde çekilen iç mekan sahneleri Nuri Bilge Ceylan'ın kendi evini kullandığı ve filmin büyük bölümüne ev sahipliği yapan ana lokasyondur.",
+    "passage": "Cihangir İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 191
+  },
+  {
+    "query": "Bursa şehir merkezindeki tarihi çay bahçesi ve kasetçi sahneleri",
+    "passage": "Tophane Yamaçları ve Tarihi Konaklar Bursa Osmangazi Şehir Manzarası, Nostalji",
+    "lokasyon_id": 61
+  },
+  {
+    "query": "Karakterlerin duygusal yüzleşmelerinin geçtiği Kapadokya vadileri",
+    "passage": "Kapadokya Peribacaları Nevşehir Ürgüp Balon Turu, Fotoğraf",
+    "lokasyon_id": 134
+  },
+  {
+    "query": "Aras Teknoloji ofisi ve modern İstanbul manzaralı çekimler",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "İstanbul Balat çevresindeki neşeli mahalle sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Göl çevresindeki duygusal ve sakin sahneler",
+    "passage": "Köyceğiz Sığla Ormanları Muğla Köyceğiz Doğa Fotoğrafçılığı",
+    "lokasyon_id": 110
+  },
+  {
+    "query": "Karakterlerin İstanbul maceraları ve hastane sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Güzel Çirkin dizisinin ana çekim mekanlarından biri İstiklal Caddesi ve çevresidir.",
+    "passage": "İstiklal Caddesi İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 267
+  },
+  {
+    "query": "Ruhumun Aynası dizisinin ana çekim mekanlarından biri Balat ve çevresidir.",
+    "passage": "Balat İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 169
+  },
+  {
+    "query": "Köyceğiz gölü kenarındaki tarla ve doğa çekimleri",
+    "passage": "Muğla Köyceğiz Yaylaları Muğla Köyceğiz Doğa Yürüyüşü",
+    "lokasyon_id": 118
+  },
+  {
+    "query": "Osmanlı dönemi İstanbul atmosferi ve saray çekimleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Karakterin hastaneye kaldırıldığı ve iyileşme sahneleri New York'ta geçmektedir.",
+    "passage": "New York Şehir Merkezi New York Manhattan Turistik geziler",
+    "lokasyon_id": 142
+  },
+  {
+    "query": "Yakışıklı karakterinin şehirdeki komedi maceraları Beyoğlu sokaklarında çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Bandırma'da çekilen dış sahneler hikayenin geçtiği şehrin özgün atmosferini aktarmaktadır.",
+    "passage": "Bandırma Balıkesir Bandırma Tarihi çarşı; Erdek ve Marmara Adası'na feribot",
+    "lokasyon_id": 50
+  },
+  {
+    "query": "Fatih'teki pazaryeri sahneleri dönemin İstanbul mahalle hayatını yansıtmaktadır.",
+    "passage": "Fatih İstanbul Fatih Tarihi camiler; Kapalıçarşı yakını; yerel pazar",
+    "lokasyon_id": 197
+  },
+  {
+    "query": "İstanbul'un kaotik ve duygusal atmosferini yansıtan sokak çekimleri",
+    "passage": "Üsküdar İskelesi ve Çevresi İstanbul Üsküdar Vapur Gezisi, Manzara",
+    "lokasyon_id": 264
+  },
+  {
+    "query": "Kosmos'un Kars kalesi ve çevresindeki gizemli sahneleri",
+    "passage": "Kars Kalesi ve Tarihi Hamamlar Kars Merkez Kültür Turu",
+    "lokasyon_id": 80
+  },
+  {
+    "query": "Rauf'un Kars köylerindeki çocukluk ve marangoz çıraklığı sahneleri",
+    "passage": "Kars Eski Rus Evleri ve Sokakları Kars Merkez Mimari Keşif, Yürüyüş",
+    "lokasyon_id": 78
+  },
+  {
+    "query": "Şeytan Ayrıntıda Gizlidir dizisinin ana çekim mekanlarından biri Belgrad Ormanı ve çevresidir.",
+    "passage": "Belgrad Ormanı İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 176
+  },
+  {
+    "query": "Beyoğlu'ndaki sahne Recep'in şehrin farklı bir köşesindeki komedi macerasını aktaran sekansı içermektedir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Paramparça dizisinin ana çekim mekanlarından biri Kandilli ve çevresidir.",
+    "passage": "Kandilli İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 209
+  },
+  {
+    "query": "Analar ve Anneler dizisinin ana çekim mekanlarından biri Yeniköy ve çevresidir.",
+    "passage": "Yeniköy İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 254
+  },
+  {
+    "query": "İzmir Karşıyaka ve çevresindeki dış çekimler",
+    "passage": "Bostanlı Sahil ve Çevresi İzmir Karşıyaka Gün Batımı İzleme, Spor",
+    "lokasyon_id": 281
+  },
+  {
+    "query": "Urla ve çevresindeki kıyı şeridi çekimleri",
+    "passage": "Urla İskele ve Tarihi Gümrük Binaları İzmir Urla Balık Gastronomisi, Yürüyüş",
+    "lokasyon_id": 299
+  },
+  {
+    "query": "Cumhuriyet'in ilk yıllarının Ankara atmosferi ve Meclis sahneleri",
+    "passage": "Eski TBMM Binası ve Ulus Meydanı Ankara Çankaya Tarih Turu, Mimari",
+    "lokasyon_id": 19
+  },
+  {
+    "query": "Karakterlerin içsel hesaplaşmalarını yansıtan Ankara gece sahneleri",
+    "passage": "Sakarya Caddesi ve SSK İş Hanı Çevresi Ankara Çankaya Gece Hayatı, Sokak Lezzetleri",
+    "lokasyon_id": 27
+  },
+  {
+    "query": "Hayat Bilgisi dizisinin ana çekim mekanlarından biri Kuzguncuk ve çevresidir.",
+    "passage": "Kuzguncuk İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 218
+  },
+  {
+    "query": "Dizinin lüks tatil beldesi ve tekne çekimlerinin yapıldığı Marmaris/Selimiye hattı",
+    "passage": "Selimiye ve Bozburun Kıyıları Muğla Marmaris Yat Turizmi, Sakinlik",
+    "lokasyon_id": 123
+  },
+  {
+    "query": "İkinci Bahar dizisinin ana çekim mekanlarından biri Arnavutköy Sahili ve çevresidir.",
+    "passage": "Arnavutköy Sahili İstanbul Beşiktaş Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 165
+  },
+  {
+    "query": "İlkay ve Ali'nin Ankara'daki günlük mahalle yaşantısı sahneleri",
+    "passage": "Demirtepe ve Ankara Tren Yolları Ankara Çankaya Tren Yolculuğu",
+    "lokasyon_id": 16
+  },
+  {
+    "query": "Feyzo'nun başlık parası için İstanbul'a gelip çalıştığı fabrika ve sendika sahneleri Beyoğlu'nda geçmektedir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Genel Karadeniz doğası ve yayla çekimleri",
+    "passage": "Sürmene Köyleri ve Yaylaları Trabzon Sürmene Doğa Fotoğrafçılığı, Gastronomi",
+    "lokasyon_id": 154
+  },
+  {
+    "query": "Şehir merkezi sahneleri ve karakterlerin mücadele alanları",
+    "passage": "Levent ve Maslak İş Merkezleri İstanbul Beşiktaş Şehir Gezisi",
+    "lokasyon_id": 222
+  },
+  {
+    "query": "Karakterlerin geçmişine dair flashback sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Karakterlerin yaşadığı Kanlıca/Beykoz hattındaki lüks ev sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Dudaktan Kalbe dizisinin ana çekim mekanlarından biri Göktürk ve çevresidir.",
+    "passage": "Göktürk İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 202
+  },
+  {
+    "query": "Cihangir'in dar sokaklarında geçen sahne polisin şüpheliyi kovaladığı gerilim anlarını içermektedir.",
+    "passage": "Cihangir İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 191
+  },
+  {
+    "query": "İstiklal Caddesi'nde geçen kovalamaca sahnesi filmin en hareketli bölümüdür.",
+    "passage": "İstiklal Caddesi İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 267
+  },
+  {
+    "query": "Erken dönem Türk sinemasının bu klasiğinin sahne çekimleri Sirkeci ve çevresindeki tarihi limanda yapılmıştır.",
+    "passage": "Sirkeci Garı İstanbul Fatih Orient Express müzesi; tarihi bina fotoğrafçılığı",
+    "lokasyon_id": 238
+  },
+  {
+    "query": "İstiklal Caddesi'nde geçen sahne kızın şehir merkezinde ticari faaliyetlerini aktaran enerjik bir sekansı içermektedir.",
+    "passage": "İstiklal Caddesi İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 267
+  },
+  {
+    "query": "Ustura Kemal dizisinin ana çekim mekanlarından biri Süleymaniye ve çevresidir.",
+    "passage": "Süleymaniye İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 243
+  },
+  {
+    "query": "Dönemin İstanbul sokaklarındaki yeraltı dünyası çekimleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Köy merkezi ve hesaplaşma meydanı sahneleri",
+    "passage": "Elmalı Sokakları ve Jandarma Karakolu Antalya Elmalı Tarihi Ev Gezisi",
+    "lokasyon_id": 36
+  },
+  {
+    "query": "Ailenin birlikte vakit geçirdiği dış mekan sahneleri Beyoğlu'nda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Akıncı dizisinin ana çekim mekanlarından biri Kilyos Sahili ve çevresidir.",
+    "passage": "Kilyos Sahili İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 215
+  },
+  {
+    "query": "İstanbul bağlantılı stüdyo ve müzik dünyası çekimleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Galata Kulesi çevresindeki dar sokak ve kovalamaca sahneleri filmde ikonik bir yer tutmaktadır.",
+    "passage": "Galata Kulesi Çevresi İstanbul Beyoğlu Galata Kulesi; tarihi sokaklar; gece hayatı",
+    "lokasyon_id": 200
+  },
+  {
+    "query": "Kapadokya'nın peri bacaları arasında çekilen dış mekan sahneleri isyancıların kovuşturma bölümünde yer almaktadır.",
+    "passage": "Mustafapaşa Köyü Nevşehir Ürgüp Kültür Gezisi",
+    "lokasyon_id": 135
+  },
+  {
+    "query": "Çocukların şehirde hayatta kalmaya çalıştığı dram sahneleri Beyoğlu'ndaki sokak ve mahalle dokusunda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Kovboy şapkalı Ringo Kazım'ın İstanbul sokaklarındaki aksiyon-komedi sahneleri Beyoğlu'nda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Karakterlerin yaratıklarla karşılaştığı Kapadokya peri bacaları",
+    "passage": "Kapadokya Peribacaları Nevşehir Ürgüp Balon Turu, Fotoğraf",
+    "lokasyon_id": 134
+  },
+  {
+    "query": "Dramatik atmosferi destekleyen taşra sahneleri",
+    "passage": "Mardin Eski Şehir Mardin Artuklu Mimari Fotoğrafçılık",
+    "lokasyon_id": 97
+  },
+  {
+    "query": "Osman'ın satış turlarının geçtiği şehir sahneleri Beyoğlu sokaklarında çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Güneşin Kızları dizisinin ana çekim mekanlarından biri Kuzguncuk ve çevresidir.",
+    "passage": "Kuzguncuk İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 218
+  },
+  {
+    "query": "Alsancak Kordon ve şehir içi aile gezintileri",
+    "passage": "Kordon Boyu ve Alsancak İskele İzmir Konak Yürüyüş, Gün Batımı",
+    "lokasyon_id": 287
+  },
+  {
+    "query": "Baba dizisinin ana çekim mekanlarından biri Nişantaşı ve çevresidir.",
+    "passage": "Nişantaşı İstanbul Şişli Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 224
+  },
+  {
+    "query": "Esenyurt'taki yeni eve taşınma ve uyum sahneleri burada geçmektedir.",
+    "passage": "Esenyurt İstanbul Esenyurt Genel şehir gözlemi",
+    "lokasyon_id": 195
+  },
+  {
+    "query": "Dizinin ikonik ve hüzünlü dış mekan kentsel çekimleri",
+    "passage": "Bostanlı Sahil ve Çevresi İzmir Karşıyaka Gün Batımı İzleme, Spor",
+    "lokasyon_id": 281
+  },
+  {
+    "query": "Fatih Akın'ın belgeselinin İstanbul boyutundaki sahneleri Beyoğlu'nda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "İstanbul'daki sahneler Oflu Hoca'nın batı kültürüyle çatışmasını anlatan komedi bölümünü oluşturmaktadır.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Çilek Kokusu dizisinin ana çekim mekanlarından biri Balat ve çevresidir.",
+    "passage": "Balat İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 169
+  },
+  {
+    "query": "Rakip karakterlerin sokak çatışmaları Beyoğlu genelinde geçmektedir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Fanis'in çocukluğunda büyükbabasıyla vakit geçirdiği baharat dükkanı sahneleri Balat'ta çekilmiştir.",
+    "passage": "Balat İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 169
+  },
+  {
+    "query": "Tozkoparan dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "Azizoğlu ve Şahvar ailelerinin Mardin'deki köklü geçmişi",
+    "passage": "Tarihi Mardin Dar Sokaklar ve Abbaralar Mardin Artuklu Kültür Gezisi, Alışveriş",
+    "lokasyon_id": 102
+  },
+  {
+    "query": "Boran ve Alya ailesinin Mardin'deki ana yerleşkesi",
+    "passage": "Mardin Midyat Sıla Konağı Mardin Midyat Konağın Terasında Fotoğraf",
+    "lokasyon_id": 99
+  },
+  {
+    "query": "Boğaz hattındaki sosyal etkinlik ve üniversite sahneleri",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "Elbet Bir Gün dizisinin ana çekim mekanlarından biri Göktürk ve çevresidir.",
+    "passage": "Göktürk İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 202
+  },
+  {
+    "query": "Öğretmen Hayat'ın atandığı Kars sokakları ve okul çevresi",
+    "passage": "Kars Kalesi ve Tarihi Hamamlar Kars Merkez Kültür Turu",
+    "lokasyon_id": 80
+  },
+  {
+    "query": "Salacak İskelesi'ndeki açılış sahnesi Poirot'nun Üsküdar'dan Şark Ekspresi'ne geçiş hazırlığını aktarmakta olup 1970'lerin İstanbul'unu belgeleyen tarihi görüntüler içermektedir.",
+    "passage": "Salacak İskelesi İstanbul Üsküdar Kız Kulesi panoraması; Boğaz manzarası; balık tutma",
+    "lokasyon_id": 234
+  },
+  {
+    "query": "Plaza ve ofis sahnelerinin çekildiği Beşiktaş-Levent hattı",
+    "passage": "Levent ve Maslak İş Merkezleri İstanbul Beşiktaş Şehir Gezisi",
+    "lokasyon_id": 222
+  },
+  {
+    "query": "İş dünyası ve ofis çekimlerinin yapıldığı plazalar",
+    "passage": "Levent ve Maslak İş Merkezleri İstanbul Beşiktaş Şehir Gezisi",
+    "lokasyon_id": 222
+  },
+  {
+    "query": "Fadime ve ailesinin İstanbul'da yerleştiği samimi mahalle",
+    "passage": "Kuzguncuk Evleri İstanbul Üsküdar Fotoğrafçılık, Nostalji Gezisi",
+    "lokasyon_id": 219
+  },
+  {
+    "query": "Ankara sahneleri ve Başkent'ten İstanbul'a uzanan yol hikayesi",
+    "passage": "Demirtepe ve Ankara Tren Yolları Ankara Çankaya Tren Yolculuğu",
+    "lokasyon_id": 16
+  },
+  {
+    "query": "Şehirler arası geçiş sahneleri",
+    "passage": "Konak Meydanı İzmir Konak Tarihi Gezi",
+    "lokasyon_id": 286
+  },
+  {
+    "query": "Karakterlerin şehir merkezi ve hastane sahneleri için kullanılan bölgeler",
+    "passage": "Konak Meydanı İzmir Konak Tarihi Gezi",
+    "lokasyon_id": 286
+  },
+  {
+    "query": "İstanbul Sokakları dizisinin ana çekim mekanlarından biri Göktürk ve çevresidir.",
+    "passage": "Göktürk İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 202
+  },
+  {
+    "query": "Öğrencilerin İstanbul'dan hareket ettiği açılış sahneleri Beyoğlu çevresinde çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Karsu ve ailesinin Adana'daki yaşamları ve hastane sahneleri",
+    "passage": "Adana Şehir Hastanesi ve Çevresi Adana Yüreğir Gözlem",
+    "lokasyon_id": 4
+  },
+  {
+    "query": "Bizim Okul dizisinin ana çekim mekanlarından biri Moda Sahili ve çevresidir.",
+    "passage": "Moda Sahili İstanbul Kadıköy Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 223
+  },
+  {
+    "query": "Uğurlugiller dizisinin ana çekim mekanlarından biri Kandilli ve çevresidir.",
+    "passage": "Kandilli İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 209
+  },
+  {
+    "query": "Esenboğa Havalimanı'nda geçen sahne karakterlerden birinin şehre dönüş anını içermektedir.",
+    "passage": "Esenboğa Havalimanı Ankara Akyurt Ulaşım noktası",
+    "lokasyon_id": 17
+  },
+  {
+    "query": "Köy meydanı ve yerel halkın toplandığı tarihi mekanlar",
+    "passage": "Çamlıhemşin Konakları Rize Çamlıhemşin Yayla Turizmi",
+    "lokasyon_id": 148
+  },
+  {
+    "query": "Hazar ve Zilan'ın İstanbul'daki lüks yaşam ve iş çevreleri",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "1960'lar İstanbul'unu yansıtan açılış sahneleri Sultanahmet Meydanı'nda çekilmiştir.",
+    "passage": "Sultanahmet Meydanı İstanbul Fatih Ayasofya; Sultanahmet Camii; Topkapı Sarayı",
+    "lokasyon_id": 241
+  },
+  {
+    "query": "Karakterlerin memleketlerine yaptıkları Karadeniz yolculukları",
+    "passage": "Çamlıhemşin Konakları Rize Çamlıhemşin Yayla Turizmi",
+    "lokasyon_id": 148
+  },
+  {
+    "query": "Aliye dizisinin ana çekim mekanlarından biri Bebek Sahili ve çevresidir.",
+    "passage": "Bebek Sahili İstanbul Beşiktaş Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 174
+  },
+  {
+    "query": "Ailenin birlikte yaşadığı mahalle ve ev sahneleri Beyoğlu çevresinde çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "İlişki Durumu: Karışık dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "Kadıköy'deki sahne ebeveynlerin çocuklarıyla günlük hayatını yansıtan belgesel tarzı anlara ev sahipliği yapmıştır.",
+    "passage": "Kadıköy İstanbul Kadıköy Pazarlar; kafe kültürü; vapur yolculuğu",
+    "lokasyon_id": 206
+  },
+  {
+    "query": "İstanbul sahneleri ve lüks restoran buluşmaları",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "Dinle Sevgili dizisinin ana çekim mekanlarından biri Nişantaşı ve çevresidir.",
+    "passage": "Nişantaşı İstanbul Şişli Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 224
+  },
+  {
+    "query": "Asla Vazgeçmem dizisinin ana çekim mekanlarından biri Tarabya ve çevresidir.",
+    "passage": "Tarabya İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 245
+  },
+  {
+    "query": "Yalı Çapkını dizisinin ana çekim mekanlarından biri Yeniköy ve çevresidir.",
+    "passage": "Yeniköy İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 254
+  },
+  {
+    "query": "Sahil şeridi ve modern İstanbul silüeti sahneleri",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "Serkan ve Duygu'nun tanıştığı Bodrum lüks otel sahneleri",
+    "passage": "Bodrum Antik Tiyatro ve Sahili Muğla Bodrum Konser, Kültür Turu",
+    "lokasyon_id": 105
+  },
+  {
+    "query": "Ankara genelindeki hastane ve okul çevresi sahneleri",
+    "passage": "Gazi Mahallesi ve Akköprü Emniyet Hattı Ankara Yenimahalle Nostalji Gezisi, Emniyet Sahneleri",
+    "lokasyon_id": 21
+  },
+  {
+    "query": "Liman ve depo bölgelerindeki aksiyon çekimleri",
+    "passage": "Üsküdar İskelesi ve Çevresi İstanbul Üsküdar Vapur Gezisi, Manzara",
+    "lokasyon_id": 264
+  },
+  {
+    "query": "Yolculuğun geçtiği demiryolu hattı ve tren çekimleri",
+    "passage": "İzmit Garı ve Tarihi Tren Rayları Kocaeli İzmit Ulaşım, Fotoğraf",
+    "lokasyon_id": 87
+  },
+  {
+    "query": "Kayıp dizisinin ana çekim mekanlarından biri Belgrad Ormanı ve çevresidir.",
+    "passage": "Belgrad Ormanı İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 176
+  },
+  {
+    "query": "Fedai dizisinin ana çekim mekanlarından biri Nişantaşı ve çevresidir.",
+    "passage": "Nişantaşı İstanbul Şişli Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 224
+  },
+  {
+    "query": "Trabzon köylerindeki yerel halkın samimi hikayeleri ve tarla sahneleri",
+    "passage": "Sürmene Köyleri ve Yaylaları Trabzon Sürmene Doğa Fotoğrafçılığı, Gastronomi",
+    "lokasyon_id": 154
+  },
+  {
+    "query": "Mahkeme salonları ve adliye koridorları sahneleri",
+    "passage": "İstanbul Çağlayan Adliyesi İstanbul Kağıthane Gözlem",
+    "lokasyon_id": 266
+  },
+  {
+    "query": "Aşk-ı Roman dizisinin ana çekim mekanlarından biri Kuzguncuk ve çevresidir.",
+    "passage": "Kuzguncuk İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 218
+  },
+  {
+    "query": "Evli ve Öfkeli dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "Kızlarım İçin dizisinin ana çekim mekanlarından biri Kemerburgaz ve çevresidir.",
+    "passage": "Kemerburgaz İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 213
+  },
+  {
+    "query": "Balat'taki tarihi yapılar arasında geçen sahne seri katilin operasyon bölgesini gözler önüne serer.",
+    "passage": "Balat İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 169
+  },
+  {
+    "query": "Gümüş dizisinin ana çekim mekanlarından biri Nişantaşı ve çevresidir.",
+    "passage": "Nişantaşı İstanbul Şişli Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 224
+  },
+  {
+    "query": "Kadıköy'deki sahne Niyazi'nin koşu antrenmanını konu alan eğlenceli bir sokak sekansını içermektedir.",
+    "passage": "Kadıköy İstanbul Kadıköy Pazarlar; kafe kültürü; vapur yolculuğu",
+    "lokasyon_id": 206
+  },
+  {
+    "query": "Ankara Garı'nda geçen veda sahnesi filmin duygusal doruk noktasını oluşturmaktadır.",
+    "passage": "Ankara Garı Ankara Altındağ Tarihi tren garı gezisi; fotoğrafçılık",
+    "lokasyon_id": 15
+  },
+  {
+    "query": "2. Dünya Savaşı dönemi Ankara ve İstanbul atmosferi için platolar",
+    "passage": "Kundura Fabrikası Dönem Platosu İstanbul Beykoz Dönem Dizisi Turu",
+    "lokasyon_id": 217
+  },
+  {
+    "query": "Aşk Yeniden dizisinin ana çekim mekanlarından biri Moda Sahili ve çevresidir.",
+    "passage": "Moda Sahili İstanbul Kadıköy Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 223
+  },
+  {
+    "query": "Ben de Özledim dizisinin ana çekim mekanlarından biri Balat ve çevresidir.",
+    "passage": "Balat İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 169
+  },
+  {
+    "query": "Adı Efsane dizisinin ana çekim mekanlarından biri Bebek Sahili ve çevresidir.",
+    "passage": "Bebek Sahili İstanbul Beşiktaş Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 174
+  },
+  {
+    "query": "Şadoğlu ve Aslanbey ailelerinin yaşadığı meşhur Midyat Konağı",
+    "passage": "Midyat Konuk Evi (Hercai Konağı) Mardin Midyat Mimari Fotoğrafçılık, Kültür Turu",
+    "lokasyon_id": 100
+  },
+  {
+    "query": "Ahmet ve Hatice'nin dağlardaki kaçış ve intikam sahneleri",
+    "passage": "Kemer Yaylaları ve Ormanları Antalya Kemer Doğa Yürüyüşü, Macera",
+    "lokasyon_id": 39
+  },
+  {
+    "query": "Bu Şehir Arkandan Gelecek dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "Söz dizisinin ana çekim mekanlarından biri İstiklal Caddesi ve çevresidir.",
+    "passage": "İstiklal Caddesi İstanbul Beyoğlu Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 267
+  },
+  {
+    "query": "Muğla kırsalındaki sığla ormanları ve yayla sahneleri",
+    "passage": "Köyceğiz Sığla Ormanları Muğla Köyceğiz Doğa Fotoğrafçılığı",
+    "lokasyon_id": 110
+  },
+  {
+    "query": "Kuma olarak gelen karakterin yaşadığı tarihi ev sahneleri",
+    "passage": "Tarihi Mardin Dar Sokaklar ve Abbaralar Mardin Artuklu Kültür Gezisi, Alışveriş",
+    "lokasyon_id": 102
+  },
+  {
+    "query": "Süreyya'nın İstanbul'daki eski hayatı ve Nişantaşı sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Basmane ve Konak çevresindeki eski İzmir sokakları",
+    "passage": "Konak Meydanı İzmir Konak Tarihi Gezi",
+    "lokasyon_id": 286
+  },
+  {
+    "query": "Flashback sahneleri için kullanılan eski mahalle dokuları",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Dostlar Mahallesi dizisinin ana çekim mekanlarından biri Beykoz Kundura Fabrikası ve çevresidir.",
+    "passage": "Beykoz Kundura Fabrikası İstanbul Beykoz Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 180
+  },
+  {
+    "query": "Bir Deli Sevda dizisinin ana çekim mekanlarından biri Kuzguncuk ve çevresidir.",
+    "passage": "Kuzguncuk İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 218
+  },
+  {
+    "query": "Gecenin Kraliçesi dizisinin ana çekim mekanlarından biri Kemerburgaz ve çevresidir.",
+    "passage": "Kemerburgaz İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 213
+  },
+  {
+    "query": "Karakterlerin yaşadığı samimi İstanbul mahallesi ve dükkanlar",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Şehre varış ve ayrılışlarda kullanılan gar sahneleri",
+    "passage": "Kars Garı ve Raylı Sistemler Kars Merkez Doğu Ekspresi Fotoğrafçılığı",
+    "lokasyon_id": 79
+  },
+  {
+    "query": "Karakterlerin İstanbul'da yerleştikleri mahalle ve cafe sahneleri",
+    "passage": "Bebek Sahil Şeridi İstanbul Beşiktaş Yürüyüş, Lüks Kafe Kültürü",
+    "lokasyon_id": 173
+  },
+  {
+    "query": "Sirkeci ve Eminönü çevresindeki motosiklet kovalamaca sahneleri",
+    "passage": "Sirkeci Garı ve Çevresi İstanbul Fatih Tarih Gezisi, Fotoğraf",
+    "lokasyon_id": 239
+  },
+  {
+    "query": "Güllü'nün şehirdeki meyhanelerde sahne aldığı sahneler Beyoğlu'nda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Vali Recep Yazıcıoğlu'nun Ankara Mamak ve çevresindeki bürokratik sahneleri",
+    "passage": "Kıbrıs Köyü Kanyonu ve Yerleşkesi Ankara Mamak Doğa Yürüyüşü, Gözlem",
+    "lokasyon_id": 24
+  },
+  {
+    "query": "Jandarma karakolunun ve kasaba hayatının geçtiği ana merkez",
+    "passage": "Elmalı Sokakları ve Jandarma Karakolu Antalya Elmalı Tarihi Ev Gezisi",
+    "lokasyon_id": 36
+  },
+  {
+    "query": "Kapalıçarşı içindeki kovalamaca sahneleri filmin aksiyon kuşağını oluşturmaktadır.",
+    "passage": "Kapalıçarşı İstanbul Fatih Alışveriş; tarihi mimari; altın ve mücevher",
+    "lokasyon_id": 210
+  },
+  {
+    "query": "İzmir şehir merkezindeki nostaljik aile sahneleri",
+    "passage": "Konak Meydanı İzmir Konak Tarihi Gezi",
+    "lokasyon_id": 286
+  },
+  {
+    "query": "Memik Dede ve ailesinin Antep'teki tarihi evi",
+    "passage": "Gaziantep Kalesi ve Eski Evler Gaziantep Şahinbey Tarih Gezisi",
+    "lokasyon_id": 66
+  },
+  {
+    "query": "Lise Defteri dizisinin ana çekim mekanlarından biri Çengelköy ve çevresidir.",
+    "passage": "Çengelköy İstanbul Üsküdar Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 259
+  },
+  {
+    "query": "Genel dış mekan ve 1950'li yılların atmosfer çekimleri",
+    "passage": "Ürgüp Şehir Merkezi Nevşehir Ürgüp Alışveriş, Kültür Turu",
+    "lokasyon_id": 140
+  },
+  {
+    "query": "Damadın ailesiyle tanıştığı ev ve mahalle sahneleri Beyoğlu'nda çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Deniz kenarı ve liman bölgelerindeki gizli buluşmalar",
+    "passage": "Üsküdar İskelesi ve Çevresi İstanbul Üsküdar Vapur Gezisi, Manzara",
+    "lokasyon_id": 264
+  },
+  {
+    "query": "Bond'un trenden düştüğü ikonik dövüş sahneleri (Varda Köprüsü)",
+    "passage": "Varda Köprüsü (Alman Köprüsü) Adana Karaisalı Mimari Gözlem, Tren İzleme",
+    "lokasyon_id": 9
+  },
+  {
+    "query": "Umut sokaklarının geçtiği şehir sahneleri Beyoğlu'nun arka meydanlarında ve pasajlarında çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Hercai dizisinin ana çekim mekanlarından biri Kemerburgaz ve çevresidir.",
+    "passage": "Kemerburgaz İstanbul Eyüpsultan Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 213
+  },
+  {
+    "query": "Feraye'nin Urla'daki pavyon ve sahil sahneleri",
+    "passage": "Urla İskele ve Tarihi Gümrük Binaları İzmir Urla Balık Gastronomisi, Yürüyüş",
+    "lokasyon_id": 299
+  },
+  {
+    "query": "Şehir hayatına tutunma çabaları ve dramatik dış çekimler",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Hatırla Sevgili dizisinin ana çekim mekanlarından biri Gülhane Parkı ve çevresidir.",
+    "passage": "Gülhane Parkı İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 203
+  },
+  {
+    "query": "İstanbul'daki sahne Bazna'nın savaş öncesi hayatına ait geçmiş sekanslardan birini oluşturmaktadır.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Deli Emin'in tamirat yaptığı ve göl manzaralı dış mekanlar",
+    "passage": "Van Akdamar Adası ve Kilisesi Van Gevaş Tarihi Gezi, Fotoğrafçılık",
+    "lokasyon_id": 156
+  },
+  {
+    "query": "Kaygısızlar dizisinin ana çekim mekanlarından biri Vefa ve çevresidir.",
+    "passage": "Vefa İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 250
+  },
+  {
+    "query": "Ölene Kadar dizisinin ana çekim mekanlarından biri Emirgan Korusu ve çevresidir.",
+    "passage": "Emirgan Korusu İstanbul Sarıyer Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 194
+  },
+  {
+    "query": "Karakterlerin gittiği tarihi Ankara barları ve sosyal alanları",
+    "passage": "Sakarya Caddesi ve SSK İş Hanı Çevresi Ankara Çankaya Gece Hayatı, Sokak Lezzetleri",
+    "lokasyon_id": 27
+  },
+  {
+    "query": "İstanbul'un dar sokaklarındaki dramatik kaçış ve yaşam sahneleri",
+    "passage": "Balat Sokakları İstanbul Fatih Cafe-Kültür Gezisi",
+    "lokasyon_id": 170
+  },
+  {
+    "query": "Üsküdar sahilindeki sahne annenin geçmişe özlemini anlatan duygusal bir sekans içermektedir.",
+    "passage": "Üsküdar İstanbul Üsküdar Kız Kulesi; sahil yürüyüşü; tarihi camiler",
+    "lokasyon_id": 263
+  },
+  {
+    "query": "Marmaris ilçe merkezi ve operasyonel sahneler",
+    "passage": "Marmaris Yat Limanı ve Plajları Muğla Marmaris Yat Turu, Gece Hayatı",
+    "lokasyon_id": 112
+  },
+  {
+    "query": "Dizinin dramatik yapısını destekleyen Muğla kırsalı ve zeytinlik sahneleri",
+    "passage": "Yatağan Kırsalı ve Zeytinlikler Muğla Yatağan Doğa Yürüyüşü, Yerel Gözlem",
+    "lokasyon_id": 126
+  },
+  {
+    "query": "Dramatik yapı için kullanılan Çanakkale dış çekimleri",
+    "passage": "Çanakkale Şehitliği ve Tarihi Yarımada Çanakkale Merkez Şehitlik Ziyareti, Tarih Turu",
+    "lokasyon_id": 163
+  },
+  {
+    "query": "Bazı dış mekan sahil çekimleri için kullanılan bölgeler",
+    "passage": "Antalya EXPO Alanı ve Stüdyolar Antalya Aksu Etkinlik, Fotoğrafçılık",
+    "lokasyon_id": 32
+  },
+  {
+    "query": "Selma'nın Van'dan İstanbul'a uzanan hikayesinin başlangıç noktası",
+    "passage": "Van Akdamar Adası ve Kilisesi Van Gevaş Tarihi Gezi, Fotoğrafçılık",
+    "lokasyon_id": 156
+  },
+  {
+    "query": "İzmir Urla çevresindeki doğal ve sakin dış çekimler",
+    "passage": "Urla İskele ve Tarihi Gümrük Binaları İzmir Urla Balık Gastronomisi, Yürüyüş",
+    "lokasyon_id": 299
+  },
+  {
+    "query": "Payitaht Abdülhamid dizisinin ana çekim mekanlarından biri Fener ve çevresidir.",
+    "passage": "Fener İstanbul Fatih Dizi seti ziyareti, Fotoğrafçılık",
+    "lokasyon_id": 198
+  },
+  {
+    "query": "Hanzo'nun İstanbul maceralarının geçtiği aksiyon sahneleri Beyoğlu sokaklarında çekilmiştir.",
+    "passage": "Beyoğlu İstanbul Beyoğlu Kafe ve restoranlar; sanat galerileri; tarihi pasajlar",
+    "lokasyon_id": 183
+  },
+  {
+    "query": "Kapalıçarşı'da geçen sahne Langdon ile Sienna'nın ipucu peşinde koştuğu gerilim dolu bölümü oluşturmaktadır.",
+    "passage": "Kapalıçarşı İstanbul Fatih Alışveriş; tarihi mimari; altın ve mücevher",
+    "lokasyon_id": 210
+  },
+  {
+    "query": "Suriye sınır hattı geçişlerini temsil eden Adana tren hattı sahneleri",
+    "passage": "Adana Tren Garı Adana Seyhan Mimari Gezi, Ulaşım",
+    "lokasyon_id": 2
+  },
+  {
+    "query": "Demiryolu çalışanlarının kış atmosferindeki sahneleri",
+    "passage": "Kars Garı ve Raylı Sistemler Kars Merkez Doğu Ekspresi Fotoğrafçılığı",
+    "lokasyon_id": 79
+  }
+]
